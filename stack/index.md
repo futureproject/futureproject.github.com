@@ -358,6 +358,7 @@ Every part of the IT system will send data to the Status Board, which will confi
 trying to develop consumer-grade software in-house. What does this mean for Logbook?
 - What are the three most *urgent* components?
 - What are the three most *important* components?
+- Are the teams correct? Who's missing?
 - How many components can we work on at once?
 
 ### re: Training
