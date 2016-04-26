@@ -8,6 +8,7 @@ layout: type
 - [Components, Costs, Personnel](#components-costs-and-personnel)
 - [Components in Detail](#components-in-detail)
 - [User Summary](#user-summary---who-uses-what)
+- [Long-Term Technology Team](#long-term-technology-team)
 - [Decisions](#decisions-to-make)
 
 ## Introduction
@@ -342,6 +343,18 @@ Every part of the IT system will send data to the Status Board, which will confi
 
 ***
 
+## Long Term Technology Team
+
+We need to clarify some roles and make some new hires. The eventual Technology team will look like this:
+
+1. Technology Director (CF? JG? JW? New hire?)
+2. An IT Support Tech (new hire)
+3. An additional Developer for Logbook (new hire)
+4. A data manager (new hire)
+5. A data visualization analyst (maybe same human as above ^)
+
+***
+
 ## Decisions to Make
 
 ### re: Architecture
@@ -364,4 +377,14 @@ trying to develop consumer-grade software in-house. What does this mean for Logb
 ### re: Training
 - When do we have to start training staff on how to use this stuff?
 - Who is responsible for running this training?
+
+***
+
+## Build Order
+1. Hardware
+2. Internal Comms
+3. CRM
+4. Logbook
+5. Namely (HR/Payroll)
+6. Knowledge Base
 
