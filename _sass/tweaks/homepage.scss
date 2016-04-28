@@ -195,8 +195,6 @@
     #imagine {
       font-size: 1em;
       min-height: calc(100vh - 60px);
-      display: table;
-      width: 100%;
       p {
         font-weight: 300;
       }
@@ -205,7 +203,7 @@
         em { text-align: center; }
       }
       .post-content {
-        display: table-cell;
+        max-width: 100%;
         height: 100%;
         vertical-align: middle;
         * { max-width: 480px; }

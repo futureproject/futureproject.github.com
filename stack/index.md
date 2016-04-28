@@ -22,7 +22,7 @@ so look out.
 all over, including:
 
 - **Dream Directors**
-  - Sallome
+  - Sallomé
   - Christian
   - Sarah Z
   - Kleaver
@@ -54,9 +54,9 @@ Components, Costs, and Personnel
 
 |Component              |Annual Cost      |Setup Time   |Ideal Team
 |-----------------------|-----------------|-------------|----------
-|Hardware               | $100,000        |2 months     |Chris, IT Technician (New Hire)
-|Int. Comms             | $15,000         |3 months     |Chris, Kanya, Sarah Z, Hayley
-|CRM                    | $10,000         |3 months     |Jill, Jeff, Chris
+|Hardware               | $100,000        |2 months     |Chris, Ali, Mind Shift
+|Int. Comms             | $15,000         |3 months     |Nikhita, Chris, Kanya, Sallomé, Sarah Z, Christian
+|CRM                    | $10,000         |3 months     |Jeff, Daria, Jill/Ben, Ali, Joseph, Becca
 |Proj. Mgmt             | $15,000         |1 month      |Kanya, Chris, Sophia
 |Staff Directory        | $15,000         |1 month      |Hayley, Sophia, Chris
 |Knowledge Base         | $5,000          |2 months     |Sarah Z, Mica, Troy, Joseph, Chris
@@ -382,9 +382,9 @@ trying to develop consumer-grade software in-house. What does this mean for Logb
 
 ## Build Order
 1. Hardware
-2. Internal Comms
-3. CRM
-4. Logbook
+2. CRM
+3. Logbook
+4. Internal Comms
 5. Namely (HR/Payroll)
 6. Knowledge Base
 
