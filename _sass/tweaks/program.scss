@@ -113,7 +113,6 @@
     }
   }
   .post#inquire {
-    background-image: url(/img/dreambus-background.jpg)
     iframe {
       max-width: 480px;
     }
@@ -234,6 +233,10 @@
     }
   }
   .post#inquire {
+    background-image: url(/img/program-inquire.jpg);
+    background-position: center bottom;
+    background-size: auto 100%;
+    background-repeat: no-repeat;
     .post-content {
       position: relative;
       min-height: 533px;
@@ -247,6 +250,7 @@
       position: absolute;
       right: 0;
       top: 0;
+      margin-bottom: 0;
     }
   }
 }
