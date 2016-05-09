@@ -112,6 +112,12 @@
       padding: 1rem;
     }
   }
+  .post#inquire {
+    background-image: url(/img/dreambus-background.jpg)
+    iframe {
+      max-width: 480px;
+    }
+  }
 }
 @media (min-width: 640px) {
   .page--program {
@@ -225,6 +231,22 @@
         left: auto;
         margin: 0 !important;
       }
+    }
+  }
+  .post#inquire {
+    .post-content {
+      position: relative;
+      min-height: 533px;
+      > %headings, > p {
+        max-width: 50%;
+        padding-right: 2rem;
+        box-sizing: border-box;
+      }
+    }
+    iframe {
+      position: absolute;
+      right: 0;
+      top: 0;
     }
   }
 }
