@@ -52,22 +52,22 @@ Budget/Priorities meeting.
 Components, Costs, and Personnel
 --------------------------------
 
-|Component              |Annual Cost      |Setup Time   |Ideal Team
-|-----------------------|-----------------|-------------|----------
-|Hardware               | $100,000        |2 months     |Chris, Ali, Mind Shift
-|Int. Comms             | $15,000         |3 months     |Nikhita, Chris, Kanya, Sallomé, Sarah Z, Christian
-|CRM                    | $10,000         |3 months     |Jeff, Daria, Jill/Ben, Ali, Joseph, Becca
-|Proj. Mgmt             | $15,000         |1 month      |Kanya, Chris, Sophia
-|Staff Directory        | $15,000         |1 month      |Hayley, Sophia, Chris
-|Knowledge Base         | $5,000          |2 months     |Sarah Z, Mica, Troy, Joseph, Chris
-|Finance/Payroll        | $50,000         |3 months     |CFO, Sophia, Chris, Hayley
-|Ext. Comms             | $69,000         |1 month      |Sophia, Daria, Chris
-|Status Board           | $1,000          |1 month      |Chris, Leadership Team
-|Logbook                | $1,000          |2 months     |Chris, New Hire, Joseph
-|Hire Dev (for Logbook) | $100,000        |1 months     |Hayley, Chris, Kanya, Andrew
-|Hire Data Manager      | $70,000         |1 month      |Hayley, Jill, Jeff, Chris, Kanya
-|Hire IT Technician     | $70,000         |1 month      |Hayley, Chris, Kanya
-|**Total**              | **$521,000**    |**22 months**|
+|Component              |Annual Cost      |Setup Time   |Ideal Team                                        |CF Notes
+|-----------------------|-----------------|-------------|----------------------------------------------------------------------------------------------------------
+|Hardware               | $100,000        |2 months     |Chris, Ali, Mind Shift                            |
+|Int. Comms             | $15,000         |3 months     |Nikhita, Chris, Kanya, Sallomé, Sarah Z, Christian|
+|CRM                    | $10,000         |3 months     |Jeff, Daria, Jill/Ben, Ali, Joseph, Becca         |
+|Proj. Mgmt             | $15,000         |1 month      |Kanya, Chris, Sophia                              |If the CRM is Airtable, we might be able to consolidate this
+|Staff Directory        | $15,000         |1 month      |Hayley, Sophia, Chris                             |This may just be Namely.
+|Knowledge Base         | $5,000          |2 months     |Sarah Z, Mica, Troy, Joseph, Chris                |In a pinch, this could be a well-structured Google Docs library + Airtable
+|Finance/Payroll        | $50,000         |3 months     |CFO, Sophia, Chris, Hayley                        |
+|Ext. Comms             | $9,000          |1 month      |Sophia, Daria, Chris                              |
+|Status Board           | $1,000          |1 month      |Chris, Leadership Team                            |
+|Logbook                | $1,000          |2 months     |Chris, New Hire, Joseph                           |
+|Hire Dev (for Logbook) | $100,000        |1 months     |Hayley, Chris, Kanya, Andrew                      |If we can consolidate Logbook and the CRM, we can skip this hire
+|Hire Data Manager      | $70,000         |1 month      |Hayley, Jill, Jeff, Chris, Kanya                  |
+|Hire IT Technician     | $70,000         |1 month      |Hayley, Chris, Kanya                              |We'll be spending this money on Mind Shift first, and hire someone after systems are up and running
+|**Total**              | **$461,000**    |**22 months**|
 
 <figure>
   <figcaption>Component Map</figcaption>
@@ -297,10 +297,9 @@ Gotta keep in touch with at least a few people who don't work at The Future Proj
 - e.g. Mailchimp: $2k/yr
 - Phone/FIOS: $1k/yr
 - Misc: $2k/yr
-- e.g. BlueJeans (videoconferencing): $60k/yr
 - Ruby Receptionist: $3,120/yr
 - Gmail: Free
-- Total: $69k/yr
+- Total: $9k/yr
 
 #### Time
 - 1 month
