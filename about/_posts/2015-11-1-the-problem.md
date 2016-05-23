@@ -32,7 +32,7 @@ America is supposed to be a place of possibility. But amid major challenges, we�
   - ![Purpose](/img/problem-eyes.png)
     Only 55% of students are engaged in learning at school.
   - ![Purpose](/img/problem-chair.png)
-    1.2 million students drop out of American high schools every year (that’s 7000 each day).
+    1.2 million students drop out of American high schools every year (that’s 7000 each school day).
   - ![Purpose](/img/problem-handcuffs.png)
     Suspension rates have more than doubled in the past four decades, contributing to a strong school to prison pipeline.
 
