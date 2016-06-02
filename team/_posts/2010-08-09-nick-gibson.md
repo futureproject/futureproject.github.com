@@ -1,6 +1,6 @@
 ---
-name: Jeff Gabriel
-role: Campaign Manager, MLTS
+name: Nick Gibson
+role: Associate, Special Projects
 portait: none
 layout: plain
 ---
