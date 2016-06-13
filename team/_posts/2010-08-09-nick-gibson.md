@@ -1,7 +1,7 @@
 ---
 name: Nick Gibson
 role: Associate, Special Projects
-portait: none
+portait: nick
 layout: plain
 ---
 
