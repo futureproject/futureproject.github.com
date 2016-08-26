@@ -7,7 +7,6 @@ layout: null
 {% include_relative mobile.js %}
 {% include_relative homepage.js %}
 {% include_relative listicles.js %}
-{% include_relative team_videos.js %}
 {% include_relative research.js %}
 {% include_relative motion.js %}
 {% include_relative stories.js %}
