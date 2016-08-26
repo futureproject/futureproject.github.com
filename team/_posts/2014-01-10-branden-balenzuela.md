@@ -1,7 +1,7 @@
 ---
-name: Brandon Balenzuela
+name: Branden Balenzuela
 role: Dream Director<br>San Francisco
-portrait: brandonb
+portrait: brandenb
 layout: plain
 ---
 
