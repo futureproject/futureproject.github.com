@@ -5,11 +5,11 @@ Aly Fox,aly,payroll nh,"Chief Dream Director, New Haven",
 Christian Shaboo,christian,payroll nh,"Dream Director, New Haven",125599911
 Divine Bradley,divine,payroll hq,"Social Imagineer ",125131436
 Emeka Onugha,emeka,payroll newark,"Chief Dream Director, Newark",
-Gemar Mills,gemar,payroll newark,Chief Education Officer,
+Gemar Mills,gemar,payroll hq,Chief Education Officer,
 Kat Evasco,kat,payroll sf,"Chief Dream Director, San Francisco ",
 Kleaver Cruz,kleaver,payroll nyc,"Chief Dream Director, NYC ",125133841
 Pat Murray,pat,payroll detroit,"Chief Dream Director, Detroit ",
-Sallomé Hralima,sallome,payroll hq leadership,"National Dream Director ",125132465
+Sallomé.,sallome,payroll leadership,"National Dream Director ",125132465
 Shantrelle Lewis,shantrelle,payroll philly,"Chief Dream Director, Philadelphia ",125592252
 Tim Shriver,timbo,FALSE,"Future Lab Research ",125593121
 Voncia Barno Monchais,voncia,payroll dc,"Chief Dream Director, Washington, D.C. ",125133840
@@ -52,32 +52,32 @@ Jesse Sanchez,jesse,payroll sf,"Dream Director, San Francisco ",
 Jessica Li,jessica,payroll sf,"Dream Director, San Francisco ",
 Jessica Koehler Yom,jessicakoehleryom,payroll hq,Director of Research,
 John-Michael Parker,jmp,payroll hq,"National Movement Director ",
-Joseph Weissgold,joseph,payroll hq,"Director of Dream Academy ",125504561
-Joyce Gendler,joyce,payroll nyc,"Dream Director, NYC ",
+Joseph Weissgold,joseph,payroll hq,Director of Systems,125504561
+Joyce Gendler,joyce,payroll hq,Director of Dream Academy,
 JP Reynolds,jp,payroll nyc,"Dream Director, NYC ",
 Kami Dimitrova,kami,payroll hq,"Future Films ",138091296
 Katherine Welsh,katherine,payroll hq,Film Editor,
 Kathleen Barquin,kathleen,payroll hq,"Executive Assistant ",
-Kayla Mason,kayla,payroll hq,"Student and Alumni Community ",125593122
+Kayla Mason,kayla,payroll hq,National Student Director,125593122
 Kerri Aidikoff,kerri,payroll hq,Director of Accounting,
 Lamarr Womble,lamarr,payroll nyc,"Dream Director, NYC ",125504562
 Lance Woods,lance,payroll detroit,"Dream Director, Detroit ",
 Leah Mendelson,leah,payroll hq,Community Outreach Associate,
 Lina Gonzalez,linag,payroll hq,Director of Design,
-Luisa Reyes,luisa,payroll hq,People Operations,
+Luisa Reyes,luisa,FALSE,People Operations,
 Maddy Dopico,maddy,payroll hq,Office Manager,
 Matt Skibinski,matt,payroll hq,Director of Marketing,
 Mica Gutierrez,mica,payroll hq,Research and Evaluation Coordinator,
 Nadeen Hachem,nadeen,payroll detroit,"Dream Director, Detroit",
-Nikhita Prasanna,nikhita,payroll hq,Chief of Staff to the CEO,
+Nikhita Prasanna,nikhita,payroll hq,Growth Strategist,
 Nora Parent,nora,payroll hq,Future Films,
-Paul Martucci,paul,payroll hq,"Finance Director ",125593127
-Rebecca Block,becca,payroll hq,"VP Research and Evaluation, Florida ",
-Sarah Katz,katz,payroll nyc,"Dream Director, NYC ",125132464
+Paul Martucci,paul,FALSE,"Finance Director ",125593127
+Rebecca Block,becca,payroll hq,VP Research and Evaluation,
+Sarah Katz,katz,FALSE,"Dream Director, NYC ",125132464
 Sarah Zapiler,zap,payroll nyc,"Dream Director, NYC ",
-Shesheena Bray,shesheena,payroll philly,"Director of Operations, Philadelphia",
+Shesheena Bray,shesheena,payroll hq,"VP, Administration",
 Solomon Green,solomon,payroll nh,"Dream Director, New Haven",
-Sophia Chitlik,sophia,payroll hq leadership,"COO ",125134330
+Sophia Chitlik,sophia,FALSE,"COO ",125134330
 SupaNova Slom,supanova,payroll newark,"Dream Director, Newark ",125132463
 Syreeta Gates,syreeta,payroll nyc,"Dream Director, NYC ",125593003
 Tamara Day,tamara,payroll hq,"Director of Special Projects ",
@@ -89,7 +89,7 @@ Veracity Savant,veracity,payroll dc,"Dream Director, Washington, D.C. ",12513308
 Violeta Donawa,violeta,payroll detroit,"Dream Director, Detroit",
 William Frey,williamf,FALSE,"Dream Director, Detroit ",
 William Malcolm,williamm,payroll detroit,"Dream Director, Detroit ",135904002
-Zachary Hill,zac,payroll hq leadership,"Chief Innovation Officer ",
+Zachary Hill,zac,payroll leadership,Chief of Staff,
 Zaki Smith,zaki,payroll newark,"Dream Director, Newark ",125133278
 Nick Gibson,nick,payroll hq,"Associate, Special Projects",
 Sir Ken Robinson,robinson,advisors,"Best-Selling Author, The Element: How Finding Your Passion Changes Everything; Global Thought Leader",
@@ -128,4 +128,4 @@ Alicia Keys,keys,advisors,"Musician, Philanthropist",
 Tony Nuckolls,nuckolls,advisors,Quicken Loans,
 Brooke Jackson,jackson,advisors,"Principal, NYC Lab School",
 Rachel Skerritt,skerritt,advisors,"Principal, Eastern Senior High School",
-Rachel Wolfe,rachel,payroll hq,Alumni Intern Coordinator,
+Rachel Wolfe,rachel,FALSE,Alumni Intern Coordinator,
