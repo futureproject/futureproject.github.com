@@ -1,6 +1,6 @@
 ---
 name: Breeana Blackmon
-role: Dream Director<br>San Francisco
+role: Dream Director<br>Detroit
 portrait: breeana
 layout: plain
 ---
