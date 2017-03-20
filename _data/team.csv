@@ -9,11 +9,8 @@ Kleaver Cruz,kleaver,payroll nyc,"Chief Dream Director, NYC ",125133841
 Pat Murray,pat,payroll detroit,"Chief Dream Director, Detroit ",
 Sallomé.,sallome,payroll leadership,National Dream Director ,125132465
 Shantrelle Lewis,shantrelle,payroll philly,"Chief Dream Director, Philadelphia ",125592252
-Tim Shriver,timbo,FALSE,Future Lab Research ,125593121
 Voncia Barno Monchais,voncia,payroll dc,"Chief Dream Director, Washington, D.C. ",125133840
-Sarah Tankoos,sarah,payroll nh,"Movement Director, New Haven ",125593005
 Akua Soadwa,akua,payroll hq,"VP, Program",125593123
-Alex Colby,alex,FALSE,"Director of Inspiration, Filmmaker ",
 Andy Ogden,andy,payroll hq,Creative Director ,125504563
 Anjali Balakrishna,anjali,payroll hq,Lead Designer ,125131432
 Anna Luera,anna,payroll sf,"Dream Director, San Francisco",
@@ -67,24 +64,20 @@ Lance Woods,lance,payroll detroit,"Dream Director, Detroit ",
 Lara Galinsky,lara,payroll hq,Entrepreneur-In-Residence,
 Leah Mendelson,leah,payroll hq,Community Outreach Associate,
 Lina Gonzalez,lina,payroll hq,Director of Design,
-Luisa Reyes,luisa,FALSE,People Operations,
-Maddy Dopico,maddy,FALSE,Office Manager,
 Madho,madho,payroll hq,Entrepreneur in Residence,
 Matt Skibinski,matt,payroll hq,"Senior Director, Marketing",
 Mica Gutierrez,mica,payroll hq,Research and Evaluation Coordinator,
 Nadeen Hachem,nadeen,payroll detroit,"Dream Director, Detroit",
 Nikhita Prasanna,nikhita,payroll hq,Growth Strategist,
 Nora Parent,nora,payroll hq,Future Films,
-Paul Martucci,paul,FALSE,Finance Director ,125593127
 Rebecca Block,becca,payroll hq,VP Research and Evaluation,
-Sarah Katz,katz,FALSE,"Dream Director, NYC ",125132464
+Sarah Tankoos,sarah,payroll hq,"Director, Program Management",125593005
 Sarah Zapiler,zap,payroll hq,Deputy National Dream Director,
+Scotty Crowe,scotty,payroll hq,"Director, MLTS Community",
 Shesheena Bray,shesheena,payroll hq,"Senior Director, Administration",
 Solomon Green,solomon,payroll nh,"Dream Director, New Haven",
-Sophia Chitlik,sophia,FALSE,COO ,125134330
 SupaNova Slom,supanova,payroll newark,"Dream Director, Newark ",125132463
 Syreeta Gates,syreeta,payroll nyc,"Dream Director, NYC ",125593003
-Tamara Day,tamara,FALSE,Director of Special Projects ,
 TJ Dean,tj,payroll philly,"Dream Director, Philadelphia",
 Todd Holcomb,todd,payroll leadership,Executive Vice President,
 Toni Jones,toni,payroll detroit,"Dream Director, Detroit ",125134416
@@ -93,7 +86,6 @@ Troy Mitchell,troy,payroll hq,Student Opportunities,135906422
 Veracity Savant,veracity,payroll dc,"Dream Director, Washington, D.C. ",125133085
 Violeta Donawa,violeta,payroll detroit,"Dream Director, Detroit",
 Willa Zhou,willa,payroll hq,Deputy COO,
-William Frey,williamf,FALSE,"Dream Director, Detroit ",
 William Malcolm,williamm,payroll detroit,"Dream Director, Detroit ",135904002
 Zachary Hill,zac,payroll leadership,COO,
 Zaki Smith,zaki,payroll newark,"Dream Director, Newark ",125133278
@@ -114,7 +106,6 @@ Jim Parsons,jim,board,"CEO, Junto Capital ",
 Maria Vecchiotti,maria,board,"Attorney, Philanthropist ",
 Mariely Garcia,mariely,board,"Future Project 2013 Alum; Student, Bowdoin College",
 Frank McCourt,mccourt,board,"Chairman and CEO, McCourt Global ",
-Gemar Mills,mills,FALSE,"Principal, Malcolm X Shabazz HS, Newark, NJ ",
 Sonal Shah,shah,advisors,Former Director of the Office of Social Innovation and Civic Participation in the White House ,
 Ted Dintersmith,ted,board,"Philanthropist; Producer, ""Most Likely to Succeed""",
 Tim Shriver,timsr,board,"Chairman, Special Olympics; Chairman, Collaborative for Academic, Social, and Emotional Learning ",
@@ -135,5 +126,3 @@ Alicia Keys,keys,advisors,"Musician, Philanthropist",
 Tony Nuckolls,nuckolls,advisors,Quicken Loans,
 Brooke Jackson,jackson,advisors,"Principal, NYC Lab School",
 Rachel Skerritt,skerritt,advisors,"Principal, Eastern Senior High School",
-,,,,
-Rachel Wolfe,rachel,FALSE,Alumni Intern Coordinator,
