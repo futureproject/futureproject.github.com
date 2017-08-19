@@ -22,6 +22,9 @@ teams:
   leadership:
     id: 'leadership'
     label: 'Leadership'
+  chicago:
+    id: 'chicago'
+    label: 'Chicago'
   detroit:
     id: 'detroit'
     label: 'Detroit'
