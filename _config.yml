@@ -22,27 +22,33 @@ teams:
   leadership:
     id: 'leadership'
     label: 'Leadership'
+  ddc:
+    id: 'ddc'
+    label: 'Dream Directors'
+  innovation:
+    id: 'innovation'
+    label: 'Innovation'
+  california:
+    id: 'california'
+    label: 'California'
   chicago:
     id: 'chicago'
     label: 'Chicago'
+  connecticut:
+    id: 'connecticut'
+    label: 'Connecticut'
   detroit:
     id: 'detroit'
     label: 'Detroit'
-  nh:
-    id: 'nh'
-    label: 'New Haven'
   newark:
     id: 'newark'
     label: 'Newark'
   nyc:
     id: 'nyc'
-    label: 'New York City'
+    label: 'New York'
   philly:
     id: 'philly'
     label: 'Philadelphia'
-  sf:
-    id: 'sf'
-    label: 'San Francisco'
   dc:
     id: 'dc'
     label: 'Washington, DC'
