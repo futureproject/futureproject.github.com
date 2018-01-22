@@ -1,141 +1,137 @@
-name,portrait,team,role,vimeo_id
-Andrew Mangino,andrew,payroll leadership board growth hq,Co-Founder & CEO ,125599915
-Kanya Balakrishna,kanya,payroll leadership board hq,Co-Founder & President ,125593002
-Akua Soadwa,akua,payroll hq leadership innovation,"VP, Dream Directors",125593123
-Aly Fox,aly,payroll hq innovation connecticut,National Innovation Chief Dream Director (CDDi),
-Anjali Balakrishna,anjali,payroll hq leadership innovation,"VP, Innovation",125131432
-Anna Luera,anna,payroll california ddC,"Dream Director, San Francisco",
-Ariel Arnold,arielarnold,payroll hq operations,Senior Accounting Associate,
-Ashley Mui,ashley,payroll hq operations,Senior Event Producer ,125593001
-Ben Gellman,ben,payroll hq operations,"Associate Director, Talent &amp; Culture",
-Ben Kimmerle,benk,payroll nyc innovation nyc hq,"Innovation Dream Director (DDi), New York",
-Branden Balenzuela,brandenb,payroll california ddC,"Dream Director, San Francisco",
-Brandon Smith,brandonsmith,payroll detroit dd,"Dream Director, Detroit",
-Brit Harley,brit,payroll newark dd,"Dream Director, Newark",125599913
-Carrie Sangiovanni,CarrieSangiovani,payroll hq innovation connecticut,"Innovation Dream Director (DDi), Norwalk",
-Chopp Stewart,chopp,payroll newark ddC,"Dream Director, Newark ",
-Chris Frank,chris,payroll hq innovation,"Director, Software Engineering",125131434
-Chris Moncrief,crief,payroll hq innovation,Senior Inventor,
-Christian Shaboo,christian,payroll hq innovation connecticut,"Innovation Dream Director (DDi), New Haven",
+name,portrait,team,role
+Andrew Mangino,andrew,payroll leadership board growth hq,Co-Founder & CEO 
+Kanya Balakrishna,kanya,payroll leadership board hq,Co-Founder & President 
+Akua Soadwa,akua,payroll hq leadership innovation,"VP, Dream Directors"
+Aly Fox,aly,payroll hq innovation connecticut,National Innovation Chief Dream Director (CDDi)
+Anjali Balakrishna,anjali,payroll hq leadership innovation,"VP, Innovation"
+Anna Luera,anna,payroll california dd,"Dream Director, San Francisco"
+Ariel Arnold,arielarnold,payroll hq operations,Senior Accounting Associate
+Ashley Mui,ashley,payroll hq operations,Senior Event Producer 
+Ben Gellman,ben,payroll hq operations,"Associate Director, Talent &amp; Culture"
+Ben Kimmerle,benk,payroll nyc innovation nyc hq,"Innovation Dream Director (DDi), New York"
+Branden Balenzuela,brandenb,payroll california dd,"Dream Director, San Francisco"
+Brandon Smith,brandonsmith,payroll detroit dd,"Dream Director, Detroit"
+Brit Harley,brit,payroll newark dd,"Dream Director, Newark"
+Carrie Sangiovanni,CarrieSangiovani,payroll hq innovation connecticut,"Innovation Dream Director (DDi), Norwalk"
+Chopp Stewart,chopp,payroll newark dd,"Dream Director, Newark "
+Chris Frank,chris,payroll hq innovation,"Director, Software Engineering"
+Chris Moncrief,crief,payroll hq innovation,Senior Inventor
+Christian Shaboo,christian,payroll hq innovation connecticut,"Innovation Dream Director (DDi), New Haven"
 Criag Barowsky,none,payroll hq innovation,"Senior Director, Product Operations"
-Cosmo Fujiyama,Cosmo Fujiyama,payroll leadership hq innovation,"VP, Dream Academy",
-Dan McIntosh,dan,payroll hq growth,Senior Impact Producer,
-Dana Bunns,dana,payroll hq growth, "Associate, Research", 
-Danielle Hughes,daniellehughes,payroll detroit ddC,"Dream Director, Detroit",
-Daria Lombroso,daria,payroll leadership growth hq,Deputy CGO,125592999
-Dominique Mathews,dominique,payroll detroit ddC,"Dream Director, Detroit",
-Eden Sapir,EdenSapir,payroll hq growth,"Associate, Marketing",
-Edwin Gil,EdwinGil,payroll hq operations,Office Manager,
-Eleanor Jewel,eleanor,payroll nyc innovation nyc hq,Innovation Chief Dream Director (CDDi) ,125592253
-Elisabet Velasquez,elisabet,payroll nyc ddC,"Dream Director, New York",
-Emma Trout,emma,payroll hq innovation,Senior Inventor,
-Erin Hinkle,erin,payroll hq operations,"Director, People Relations",125599909
-Eve King,EveKing,payroll california ddC,"Dream Director, San Francisco ",125131563
-Frank Brady,frank,payroll connecticut ddC,"Dream Director, New Haven ",125592256
-Gemar Mills,gemar,payroll hq growth,Chief Education Officer,
-George Black,george,payroll connecticut ddC,"Chief Dream Director, New Haven ",125133086
-Hakim Pitts,hakim,payroll philly ddC,"Dream Director, Philadelphia ",
-Hassan Munford,hassan,payroll newark ddC,"Dream Director, Newark",
-Hayley Darden,hayley,payroll hq innovation,"Director, Product Research",
-JP Reynolds,jp,payroll nyc ddC,"Dream Director, New York ",
-James Huckabey,JamesHuckabey,payroll connecticut ddC,"Dream Director, New Haven",
-Jay Kemp,jayk,payroll connecticut ddC,"Dream Director, New Haven ",
-Jeroy Smith,jeroy,payroll connecticut ddC,"Dream Director, New Haven ",125504557
-Jessica Care Moore,jessicacm,payroll detroit ddC,"Dream Director, Detroit",
-Jessica Koehler Yom,jessicakoehleryom,payroll hq innovation,"Director, External Research",
-Jessica Li,JessicaLi,payroll california ddC,"Dream Director, San Francisco,",
-Jessica Valoris,jess,payroll dc innovation hq,"Innovation Dream Director (DDi), DC",125504559
-John-Michael Parker,jmp,payroll leadership hq growth,"VP, Development",
-John Caleb Pendleton,JohnCalebPendleton,payroll chicago ddC,"Dream Director, Chicago",
-John Zelenka,JohnZelenka,payroll hq growth,"Senior Director, Partnerships",
-Josephine Quaye,JosephineQuaye,payroll newark,"Dream Director, Newark ",
-Joshua Nelson,joshuanelson,payroll philly ddC,"Dream Director, Philadelphia ",
-Justice Hatterson,justice,payroll hq innovation,"Associate, Special Projects",
-Justin Zeigler,JustinZeigler,payroll hq innovation connecticut,"Innovation Dream Director (DDi), Naugatuck",
-Kat Evasco,kat,payroll hq growth,"Senoir Director, Movement",
-Katherine Welsh,katherine,payroll hq growth,Video Producer,
-Kathleen Barquin,kathleen,payroll hq leadership,Executive Assistant ,
-Katie Longofono,katie,payroll hq growth,Writer,
-Kayla Mason,kayla,payroll hq growth,"Director, Expansion",125593122
-Kelly Loopz,KellyLoopz,payroll newark ddC,"Dream Director, Newark",
-Kerri Aidikoff,kerri,payroll hq leadership operations,"Senior Director, Finance",
-Keyla Marte,keyla,payroll hq innovation,"Associate, Alumni Community",
-Lamarr Womble,lamarr,payroll nyc innovation nyc hq,"Innovation Dream Director (DDi), New York",125504562
-Lance Woods,lance,payroll detroit ddC,"Dream Director, Detroit ",
-Lara Galinsky,lara,payroll hq,Entrepreneur in Residence,
-Leah Mendelson,LeahMendelson,payroll hq growth,"Senior Associate, Community Engagement",
-Lila Jane Mabe,none,payroll hq growth,"Senior Director, Development Operations",
-Lina Gonzalez,lina,payroll hq innovation,Senior Designer,
-Lucinda Hearn,lucy,payroll hq innovation,Digital Product Strategist,
-Maggie Moore,MaggieMoore,payroll hq growth,"Director, Communications",
-Malia West,MaliaWest,payroll hq innovation connecticut,"Innovation Dream Director (DDi), Norwalk",
-Maria Tranquilli,MariaTranquilli,payroll california ddC,"Chief Dream Director, California",
-Mateo Corby,mateocorby,payroll california ddC,"Dream Director, Los Angeles",
-Matt Skibinski,matt,payroll hq leadership innovation,"VP, Research &amp; Evaluation",
-Matthew Harris,MatthewHarris,payroll chicago ddC,"Dream Director, Chicago",
-Mica Gutierrez,mica,payroll hq innovation,"Director, Evaluation",
-Nadeen Hachem,nadeen,payroll detroit ddC,"Dream Director, Detroit",
-Nick Gibson,nick,payroll hq operations,Senior Systems Associate,
-Nikhita Prasanna,nikhita,payroll nyc innovation nyc hq,"Innovation Dream Director (DDi), New York",
-Nora Parent,nora,payroll hq innovation,"Senior Director, Product Management",
-Nyoka Acevedo,NyokaAcevedo,payroll newark ddC,"Chief Dream Director, Newark",
-Paula Ramirez,PaulaRamirez,payroll nyc innovation nyc hq,"Innovation Dream Director (DDi), New York",
-Rebecca Block,becca,payroll hq innovation,Principal Scientist,
-Russell Harris,russellharris,payroll detroit ddC,"Chief Dream Director, Detroit",
-Sallomé.,sallome,payroll leadership operations hq,"VP, People",125132465
-Sarah Tankoos,sarah,payroll hq innovation,"Director, Program Management",125593005
-Sarah Zapiler,zap,payroll hq operations,"Director, Future U",
-Scotty Crowe,scotty,payroll innovation nyc hq,"Innovation Dream Director (DDi), New York",
-Shantrelle Lewis,shantrelle,payroll philly ddC,"Chief Dream Director, Philadelphia ",125592252
-Sydney Henriques-Payne,SydneyHenriques-Payne,payroll leadership hq,Chief of Staff,
-Solomon Green,solomon,payroll connecticut ddC,"Dream Director, New Haven",
-Syreeta Gates,syreeta,payroll nyc ddC,"Chief Dream Director, New York ",125593003
-Tanvi Girotra,none,payroll hq innovation,"Deputy to the Chief Innovation Officer",
-Taylor Bernal,TaylorBernal,payroll leadership operations hq,"Senior Director, Human Resources ",
-TJ Dean,tj,payroll philly ddC,"Dream Director, Philadelphia",
-Todd Holcomb,todd,payroll leadership innovation,CIO,
-Toni Jones,toni,payroll detroit ddC,"Dream Director, Detroit ",125134416
-Troy Mitchell,troy,payroll hq operations,"Senior Associate, People Relations ",135906422
-Tunisia Morrison,none,payroll nyc ddC,"Dream Director, New York",
-Veracity Savant,veracity,payroll dc,"Dream Director, Washington, D.C. ",125133085
-Violeta Donawa,violeta,payroll detroit ddC,"Dream Director, Detroit",
-Voncia Barno Monchais,voncia,payroll hq innovation,Senior Inventor,125133840
-William Jenkins,willjenkins,payroll dc innovation hq,"Innovation Dream Director (DDi), DC",
-William Malcolm,williamm,payroll detroit ddC,"Dream Director, Detroit ",135904002
-Zaki Smith,zaki,payroll innovation newark hq,"Innovation Dream Director (DDi), Newark",125133278
-Sir Ken Robinson,robinson,advisors,"Best-Selling Author, The Element: How Finding Your Passion Changes Everything; Global Thought Leader",
-Lynda Weinman,weinman,advisors,"Founder, lynda.com; Author; Philanthropist",
-Angela Duckworth,duckworth,advisors,"MacArthur Fellow; Associate Professor of Psychology, University of Pennsylvania ",
-Linda Stone,stone,advisors,"Writer, Thought Leader on Technology and the Human Spirit ",
-Bill Drayton,drayton,advisors,"Founder, Ashoka; ""Godfather"" of Social Entrepreneurship",
-Carolyn Laub,laub,advisors,"Founding Director, Gay-Straight Alliance Network",
-Shaka Senghor,senghor,advisors,"Global Thought Leader; Director of Strategy, #Cut50",
-R. Brad Lane,lane,advisors,"Founder, Atlas Capital Partners & Chief Executive Officer, RIDGE-LANE LP",
-Dan Gilbert,gilbert,advisors,"Chairman and Founder, Rock Ventures and Quicken Loans Inc.",
-Brendan Cullen,cullen,board,"Managing Director, Draper Richards Kaplan ",
-Hope Taitz,hope,board,"Former Managing Partner, Catalyst Partners; Board of Directors, Pencils of Promise ",
-Jeff Ingram,ingram,board,"Senior Managing Director, McCourt Global ",
-Jim Parsons,jim,board,"CEO, Junto Capital ",
-Maria Vecchiotti,maria,board,"Attorney, Philanthropist ",
-Mariely Garcia,mariely,board,"Future Project 2013 Alum; Student, Bowdoin College",
-Frank McCourt,mccourt,board,"Chairman and CEO, McCourt Global ",
-Sonal Shah,shah,advisors,Former Director of the Office of Social Innovation and Civic Participation in the White House ,
-Ted Dintersmith,ted,board,"Philanthropist; Producer, ""Most Likely to Succeed""",
-Tim Shriver,timsr,board,"Chairman, Special Olympics; Chairman, Collaborative for Academic, Social, and Emotional Learning ",
-Tony Wagner,tony,board,"Globally Best-Selling Author; Expert-in-Residence, Harvard ",
-Peter Salovey,salovey,advisors,"President, Yale University; Pioneer in Emotional Intelligence ",
-Dan Pink,pink,advisors,"Best-selling Author of Drive, A Whole New Mind, and To Sell is Human ",
-Leigh Blake,blake,advisors,"Co-Founder, Keep a Child Alive",
-Bill Milliken,milliken,advisors,"Author of The Last Dropout; Stop the Epidemic!; Co-Founder and former President, Communities in Schools ",
-Scott Barry Kaufman,kaufman,advisors,"Author of Ungifted, Intelligence Redefined; Co-Founder, The Creativity Post ",
-Carol Dweck,dweck,advisors,"Author of Mindset; The New Psychology of Success; Professor of Psychology, Stanford University ",
-Bill Damon,damon,advisors,"Professor of Education, Stanford University; Editor-in-Chief, The Handbook of Child Psychology ",
-Tim Coleman,coleman,board,PJT Partners,
-Deepak Chopra,chopra,advisors,"Bestselling Author, Global Thought Leader ",
-Niko Canner,canner,advisors,"Founder, Incandescent ",
-Ryan Allis,allis,advisors,"Co-Founder and CEO, Connect; Former Co-Founder and CEO, iContact ",
-Dr. Paul Hernandez,none,advisor,"Author, The Pedagogy of Real Talk ",
-Alicia Keys,keys,advisors,"Musician, Philanthropist",
-Tony Nuckolls,nuckolls,advisors,Quicken Loans,
-Brooke Jackson,jackson,advisors,"Principal, NYC Lab School",
-Rachel Skerritt,skerritt,advisors,"Principal, Eastern Senior High School",
+Cosmo Fujiyama,Cosmo Fujiyama,payroll leadership hq innovation,"VP, Dream Academy"
+Dan McIntosh,dan,payroll hq growth,Senior Impact Producer
+Dana Bunns,dana,payroll hq growth," ""Associate"
+Danielle Hughes,daniellehughes,payroll detroit dd,"Dream Director, Detroit"
+Daria Lombroso,daria,payroll leadership growth hq,Deputy CGO
+Dominique Mathews,dominique,payroll detroit dd,"Dream Director, Detroit"
+Eden Sapir,EdenSapir,payroll hq growth,"Associate, Marketing"
+Edwin Gil,EdwinGil,payroll hq operations,Office Manager
+Eleanor Jewel,eleanor,payroll nyc innovation nyc hq,Innovation Chief Dream Director (CDDi) 
+Elisabet Velasquez,elisabet,payroll nyc dd,"Dream Director, New York"
+Emma Trout,emma,payroll hq innovation,Senior Inventor
+Erin Hinkle,erin,payroll hq operations,"Director, People Relations"
+Eve King,EveKing,payroll california dd,"Dream Director, San Francisco "
+Frank Brady,frank,payroll connecticut dd,"Dream Director, New Haven "
+Gemar Mills,gemar,payroll hq growth,Chief Education Officer
+George Black,george,payroll connecticut dd,"Chief Dream Director, New Haven "
+Hakim Pitts,hakim,payroll philly dd,"Dream Director, Philadelphia "
+Hassan Munford,hassan,payroll newark dd,"Dream Director, Newark"
+Hayley Darden,hayley,payroll hq innovation,"Director, Product Research"
+JP Reynolds,jp,payroll nyc dd,"Dream Director, New York "
+James Huckabey,JamesHuckabey,payroll connecticut dd,"Dream Director, New Haven"
+Jay Kemp,jayk,payroll connecticut dd,"Dream Director, New Haven "
+Jeroy Smith,jeroy,payroll connecticut dd,"Dream Director, New Haven "
+Jessica Care Moore,jessicacm,payroll detroit dd,"Dream Director, Detroit"
+Jessica Koehler Yom,jessicakoehleryom,payroll hq innovation,"Director, External Research"
+Jessica Li,JessicaLi,payroll california dd,"Dream Director, San Francisco,"
+Jessica Valoris,jess,payroll dc innovation hq,"Innovation Dream Director (DDi), DC"
+John-Michael Parker,jmp,payroll leadership hq growth,"VP, Development"
+John Caleb Pendleton,JohnCalebPendleton,payroll chicago dd,"Dream Director, Chicago"
+John Zelenka,JohnZelenka,payroll hq growth,"Senior Director, Partnerships"
+Josephine Quaye,JosephineQuaye,payroll newark,"Dream Director, Newark "
+Joshua Nelson,joshuanelson,payroll philly dd,"Dream Director, Philadelphia "
+Justice Hatterson,justice,payroll hq innovation,"Associate, Special Projects"
+Justin Zeigler,JustinZeigler,payroll hq innovation connecticut,"Innovation Dream Director (DDi), Naugatuck"
+Kat Evasco,kat,payroll hq growth,"Senoir Director, Movement"
+Katherine Welsh,katherine,payroll hq growth,Video Producer
+Kathleen Barquin,kathleen,payroll hq leadership,Executive Assistant 
+Katie Longofono,katie,payroll hq growth,Writer
+Kayla Mason,kayla,payroll hq growth,"Director, Expansion"
+Kelly Loopz,KellyLoopz,payroll newark dd,"Dream Director, Newark"
+Kerri Aidikoff,kerri,payroll hq leadership operations,"Senior Director, Finance"
+Keyla Marte,keyla,payroll hq innovation,"Associate, Alumni Community"
+Lamarr Womble,lamarr,payroll nyc innovation nyc hq,"Innovation Dream Director (DDi), New York"
+Lance Woods,lance,payroll detroit dd,"Dream Director, Detroit "
+Lara Galinsky,lara,payroll hq,Entrepreneur in Residence
+Leah Mendelson,LeahMendelson,payroll hq growth,"Senior Associate, Community Engagement"
+Lila Jane Mabe,none,payroll hq growth,"Senior Director, Development Operations"
+Lina Gonzalez,lina,payroll hq innovation,Senior Designer
+Lucinda Hearn,lucy,payroll hq innovation,Digital Product Strategist
+Maggie Moore,MaggieMoore,payroll hq growth,"Director, Communications"
+Malia West,MaliaWest,payroll hq innovation connecticut,"Innovation Dream Director (DDi), Norwalk"
+Maria Tranquilli,MariaTranquilli,payroll california dd,"Chief Dream Director, California"
+Mateo Corby,mateocorby,payroll california dd,"Dream Director, Los Angeles"
+Matt Skibinski,matt,payroll hq leadership innovation,"VP, Research &amp; Evaluation"
+Matthew Harris,MatthewHarris,payroll chicago dd,"Dream Director, Chicago"
+Mica Gutierrez,mica,payroll hq innovation,"Director, Evaluation"
+Nadeen Hachem,nadeen,payroll detroit dd,"Dream Director, Detroit"
+Nick Gibson,nick,payroll hq operations,Senior Systems Associate
+Nikhita Prasanna,nikhita,payroll nyc innovation nyc hq,"Innovation Dream Director (DDi), New York"
+Nora Parent,nora,payroll hq innovation,"Senior Director, Product Management"
+Nyoka Acevedo,NyokaAcevedo,payroll newark dd,"Chief Dream Director, Newark"
+Paula Ramirez,PaulaRamirez,payroll nyc innovation nyc hq,"Innovation Dream Director (DDi), New York"
+Rebecca Block,becca,payroll hq innovation,Principal Scientist
+Russell Harris,russellharris,payroll detroit dd,"Chief Dream Director, Detroit"
+Sallomé.,sallome,payroll leadership operations hq,"VP, People"
+Sarah Tankoos,sarah,payroll hq innovation,"Director, Program Management"
+Sarah Zapiler,zap,payroll hq operations,"Director, Future U"
+Scotty Crowe,scotty,payroll innovation nyc hq,"Innovation Dream Director (DDi), New York"
+Shantrelle Lewis,shantrelle,payroll philly dd,"Chief Dream Director, Philadelphia "
+Sydney Henriques-Payne,SydneyHenriques-Payne,payroll leadership hq,Chief of Staff
+Solomon Green,solomon,payroll connecticut dd,"Dream Director, New Haven"
+Syreeta Gates,syreeta,payroll nyc dd,"Chief Dream Director, New York "
+Tanvi Girotra,none,payroll hq innovation,Deputy to the Chief Innovation Officer
+Taylor Bernal,TaylorBernal,payroll leadership operations hq,"Senior Director, Human Resources "
+TJ Dean,tj,payroll philly dd,"Dream Director, Philadelphia"
+Todd Holcomb,todd,payroll leadership innovation,CIO
+Toni Jones,toni,payroll detroit dd,"Dream Director, Detroit "
+Troy Mitchell,troy,payroll hq operations,"Senior Associate, People Relations "
+Tunisia Morrison,none,payroll nyc dd,"Dream Director, New York"
+Veracity Savant,veracity,payroll dc,"Dream Director, Washington, D.C. "
+Violeta Donawa,violeta,payroll detroit dd,"Dream Director, Detroit"
+Voncia Barno Monchais,voncia,payroll hq innovation dc,Senior Inventor
+William Jenkins,willjenkins,payroll dc innovation hq,"Innovation Dream Director (DDi), DC"
+William Malcolm,williamm,payroll detroit dd,"Dream Director, Detroit "
+Zaki Smith,zaki,payroll innovation newark hq,"Innovation Dream Director (DDi), Newark"
+Sir Ken Robinson,robinson,advisors,"Best-Selling Author, The Element: How Finding Your Passion Changes Everything; Global Thought Leader"
+Lynda Weinman,weinman,advisors,"Founder, lynda.com; Author; Philanthropist"
+Angela Duckworth,duckworth,advisors,"MacArthur Fellow; Associate Professor of Psychology, University of Pennsylvania "
+Linda Stone,stone,advisors,"Writer, Thought Leader on Technology and the Human Spirit "
+Bill Drayton,drayton,advisors,"Founder, Ashoka; ""Godfather"" of Social Entrepreneurship"
+Carolyn Laub,laub,advisors,"Founding Director, Gay-Straight Alliance Network"
+Shaka Senghor,senghor,advisors,"Global Thought Leader; Director of Strategy, #Cut50"
+Dan Gilbert,gilbert,advisors,"Chairman and Founder, Rock Ventures and Quicken Loans Inc."
+Brendan Cullen,cullen,board,"Managing Director, Draper Richards Kaplan "
+Jim Parsons,jim,board,"CEO, Junto Capital "
+Maria Vecchiotti,maria,board,"Attorney, Philanthropist "
+Mariely Garcia,mariely,board,"Future Project 2013 Alum; Student, Bowdoin College"
+Frank McCourt,mccourt,board,"Chairman and CEO, McCourt Global "
+Sonal Shah,shah,advisors,Former Director of the Office of Social Innovation and Civic Participation in the White House 
+Tim Shriver,timsr,board,"Chairman, Special Olympics; Chairman, Collaborative for Academic, Social, and Emotional Learning "
+Tony Wagner,tony,board,"Globally Best-Selling Author; Expert-in-Residence, Harvard "
+Peter Salovey,salovey,advisors,"President, Yale University; Pioneer in Emotional Intelligence "
+Dan Pink,pink,advisors,"Best-selling Author of Drive, A Whole New Mind, and To Sell is Human "
+Leigh Blake,blake,advisors,"Co-Founder, Keep a Child Alive"
+Bill Milliken,milliken,advisors,"Author of The Last Dropout; Stop the Epidemic!; Co-Founder and former President, Communities in Schools "
+Scott Barry Kaufman,kaufman,advisors,"Author of Ungifted, Intelligence Redefined; Co-Founder, The Creativity Post "
+Carol Dweck,dweck,advisors,"Author of Mindset; The New Psychology of Success; Professor of Psychology, Stanford University "
+Bill Damon,damon,advisors,"Professor of Education, Stanford University; Editor-in-Chief, The Handbook of Child Psychology "
+Tim Coleman,coleman,board,PJT Partners
+Deepak Chopra,chopra,advisors,"Bestselling Author, Global Thought Leader "
+Niko Canner,canner,advisors,"Founder, Incandescent "
+Ryan Allis,allis,advisors,"Co-Founder and CEO, Connect; Former Co-Founder and CEO, iContact "
+Dr. Paul Hernandez,none,advisor,"Author, The Pedagogy of Real Talk "
+Alicia Keys,keys,advisors,"Musician, Philanthropist"
+Tony Nuckolls,nuckolls,advisors,Quicken Loans
+Brooke Jackson,jackson,advisors,"Principal, NYC Lab School"
+Rachel Skerritt,skerritt,advisors,"Principal, Eastern Senior High School"

@@ -22,8 +22,8 @@ teams:
   leadership:
     id: 'leadership'
     label: 'Leadership'
-  ddc:
-    id: 'ddc'
+  dd:
+    id: 'dd'
     label: 'Dream Directors'
   innovation:
     id: 'innovation'
