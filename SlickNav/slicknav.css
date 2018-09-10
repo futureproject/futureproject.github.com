@@ -1,0 +1,63 @@
+
+.slicknav_menu { display: none; }
+
+.slicknav_nav { clear: both }
+
+.slicknav_nav .slicknav_arrow { color: #7c8086; display: block; position: absolute; right: 20px; top: 5px; z-index: 9; }
+
+.slicknav_nav .slicknav_item { cursor: pointer; margin: 0; padding: 0; }
+
+.slicknav_nav .slicknav_row { display: block; }
+
+.slicknav_nav a { display: block; transition: none; }
+
+.slicknav_menu:before,
+.slicknav_menu:after { content: " "; display: table; }
+
+.slicknav_menu:after { clear: both }
+
+.slicknav_menu { *zoom: 1
+}
+
+.slicknav_menu { font-family: 'Proxima Nova Rg'; overflow-y: auto; margin:0px 0 0 0;  }
+
+.open-more { background: url(images/right-arrow.png) no-repeat center; display: block; width: 22px; height: 22px; }
+
+.close-more { background: url(images/dd-arrow.png) no-repeat center; display: block; width: 22px; height: 22px; }
+
+.slicknav_menu { background: #212d3c; color: #fff; font-size: 15px; }
+
+.slicknav_menu ul { margin:150px 0 0 0 !important; padding: 0; width:100%; border-bottom:0; }
+
+.slicknav_menu ul ul{ margin: 0 0 10px 0 !important;  }
+
+.slicknav_menu ul li { float: none; font-size: 14px; margin: 0; position: relative; list-style: none; width:100%; text-align:center;}
+
+.slicknav_menu ul li:last-child {border:0;}
+
+.slicknav_menu ul li li { border-bottom: 1px dashed #ccc;}
+
+.slicknav_menu ul li a { padding:10px 10px; color: #fff;  font-size:16px; text-transform:uppercase;}
+
+.slicknav_menu ul ul li a { padding: 5px 10px 5px 20px; }
+
+.slicknav_menu ul ul ul li a { padding: 5px 10px 5px 30px; }
+
+.slicknav_menu ul>li:hover>a {  color: #4BCCEF; }
+
+.slicknav_menu ul ul>li:hover>a {  color: #fff; background:#9e2e85; }
+
+.slicknav_menu ul>li:hover .slicknav_row a { color: #9e2e85 !important;  }
+
+.slicknav_menu ul li:hover>.slicknav_arrow { color: #fff;  }
+
+.slicknav_menu ul li:hover>.slicknav_item a { color: #000; }
+
+
+.slicknav_menu ul li.try-it-btn { margin: 0; padding:10px; text-align:center; }
+
+.slicknav_menu ul li.try-it-btn a { display:inline-block; color: #fff; font-size: 14px; padding: 9px 18px; border-radius: 3px; font-weight: 600; background: #ea1929; text-align: center; background: -moz-linear-gradient(top, #ea1929 0%, #9e2e85 100%); /* FF3.6-15 */ background: -webkit-linear-gradient(top, #ea1929 0%, #9e2e85 100%); /* Chrome10-25,Safari5.1-6 */ background: linear-gradient(to bottom, #ea1929 0%, #9e2e85 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ea1929', endColorstr='#9e2e85', GradientType=0 ); /* IE6-9 */
+}
+
+.slicknav_menu ul li.try-it-btn a:hover {/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#9e2e85+0,ea1929+100 */ background: #9e2e85; /* Old browsers */ background: -moz-linear-gradient(top, #9e2e85 0%, #ea1929 100%); /* FF3.6-15 */ background: -webkit-linear-gradient(top, #9e2e85 0%, #ea1929 100%); /* Chrome10-25,Safari5.1-6 */ background: linear-gradient(to bottom, #9e2e85 0%, #ea1929 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#9e2e85', endColorstr='#ea1929', GradientType=0 ); /* IE6-9 */
+ 

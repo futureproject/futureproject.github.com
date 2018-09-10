@@ -1,8 +1,622 @@
----
-title: Home
----
-{% assign cat = 'homepage' %}
-{% for post in site.categories[cat] %}
-  {% include post-stnd.html %}
-{% endfor %}
-{% assign cat = nil %}
+<!doctype html>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+<title>The Future Project</title>
+<!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    
+    <!-- Custom Css -->
+    <link href="css/custom.css" rel="stylesheet">
+    <link href="css/fonts.css" rel="stylesheet">
+    <link href="css/custommedia.css" rel="stylesheet">
+    <link href="css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Oswald:400,600" rel="stylesheet">
+    
+    <!-- Slick Nav -->
+    <link rel="stylesheet" href="SlickNav/slicknav.css">
+    
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    
+    <link rel="apple-touch-icon" href="apple-touch-icon.png">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/vnd.microsoft.icon" />    
+</head>
+
+<body>
+<!-- ================ Header Starts================ -->
+<header class="headercontainer" id="Myheader">
+	<div class="row">
+    	<div class="mobmenu">
+            <div class="col-xs-12 col-sm-12 col-md-3 logo"><figure><a href="index.html"><img src="images/logo.png" alt=""></a></figure></div>
+            <div class="col-xs-12 col-sm-12 col-md-9 navright">
+            	<ul id="menu">
+                    <li class="homeButton"><a href="index.html">Home</a></li>
+                    <li><a href="futureschools.html">Future Schools</a></li>
+                    <li><a href="futurecamp.html">Future Camp</a></li>
+                    <li><a href="aboutus.html">About Us</a></li>
+                    <li class="active mobhide"><a href="https://thefutureproject.giv.sh/d953" target="_blank">Make A Donation</a></li>
+                    <li><div class="socialmenu"><span>Follow us:</span> <a href="https://www.facebook.com/tfpinspire/"><i class="fa fa-facebook"></i></a> <a href="https://twitter.com/dreamdirectors"><i class="fa fa-twitter"></i></a> <a href="https://www.instagram.com/dreamdirectors/"><i class="fa fa-instagram"></i></a> <a href="https://www.youtube.com/user/myfutureproject/"><i class="fa fa-youtube"></i></a></div></li>
+                </ul>
+            </div>
+            
+            <div class="donate"><a href="https://thefutureproject.giv.sh/d953">Donate</a></div>
+        </div> 
+    </div>
+</header>
+<!-- ================ Header Ends================ -->
+
+
+<!-- ================ Banner Section Starts================ -->
+<div class="container rel">
+	<div class="row">
+    	<div class="banner">            
+            <div id="bannerCarousel" class="carousel slide carousel-fade" data-ride="carousel">
+                    <!-- Indicators -->
+                    <ol class="carousel-indicators">
+                      <li data-target="#bannerCarousel" data-slide-to="0" class="active"></li>
+                      <li data-target="#bannerCarousel" data-slide-to="1"></li>
+                    </ol>
+
+                    <!-- Carousel items -->
+                    <div class="carousel-inner">
+                       <!-- Slide 1 : Active -->
+                      <div class="item active">
+                        <div class="carouselimage"><img src="images/homepage-student-8-lg.png" alt=""></div>
+                      </div><!-- /Slide1 -->
+                
+                      <!-- Slide 2 : Active -->
+                      <div class="item">
+                        <div class="carouselimage"><img src="images/homepage-student-2-lg.png" alt=""></div>
+                      </div><!-- /Slide2 -->
+
+                      <!-- Slide 2 : Active -->
+                      <div class="item">
+                        <div class="carouselimage"><img src="images/homepage-student-3-lg.png" alt=""></div>
+                      </div><!-- /Slide2 -->
+
+                      <!-- Slide 2 : Active -->
+                      <div class="item">
+                        <div class="carouselimage"><img src="images/homepage-student-4-lg.png" alt=""></div>
+                      </div><!-- /Slide2 -->
+                        
+                      <!-- Slide 2 : Active -->
+                      <div class="item">
+                        <div class="carouselimage"><img src="images/homepage-student-5-lg.png" alt=""></div>
+                      </div><!-- /Slide2 -->
+                        
+                      <!-- Slide 2 : Active -->
+                      <div class="item">
+                        <div class="carouselimage"><img src="images/homepage-student-6-lg.png" alt=""></div>
+                      </div><!-- /Slide2 -->
+                        
+                      <!-- Slide 2 : Active -->
+                      <div class="item">
+                        <div class="carouselimage"><img src="images/homepage-student-7-lg.png" alt=""></div>
+                      </div><!-- /Slide2 -->
+
+                        
+                        
+                    </div><!-- /.carousel-inner -->
+
+					 <!-- Controls -->
+    				 <div class="control-box">
+                          <a class="left carousel-control" href="#bannerCarousel" role="button" data-slide="prev">
+                            <span class="control-icon prev fa fa-chevron-left" aria-hidden="true"></span>
+                            <span class="sr-only">Previous</span>
+                          </a>
+                          
+                          <a class="right carousel-control" href="#bannerCarousel" role="button" data-slide="next">
+                            <span class="control-icon next fa fa-chevron-right" aria-hidden="true"></span>
+                            <span class="sr-only">Next</span>
+                          </a>
+    				 </div><!-- /.control-box -->
+   
+			 </div><!-- /#myCarousel -->
+            <div class="statictxt">
+        		<h3>It’s time for the future to lead</h3>
+                <p>Join tens of thousands of young people across the country in building a better future for all.</p>
+                 <div class="findmore"><a href="https://thefutureproject.giv.sh/d953">Back The Future</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ================ Banner Section Ends================ -->
+
+
+<!-- ================ Blue Banner Area Start ================ -->
+<div class="container-fluid bluebar">
+	<div class="container">
+    	<div class="row">
+        	<div class="col-xs-12 col-sm-12 col-md-3">
+            	<div class="headingleft"><span><img src="images/flag.svg" alt=""></span> <span class="textflat">Our Call To Act</span></div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-9"><h4>50% of young people say they aren’t hopeful about the future.</h4></div>
+        </div>
+    </div>
+</div>
+<!-- ================ Blue Banner Area Ends ================ -->
+
+
+<!-- ================ Heading Main Section Start ================ -->
+<div class="container mainheading container1344">
+	<div class="row">
+    	<div class="col-xs-12 col-sm-12 col-md-12">
+        	<h1>The Future Project is a growing national community of young people building the life and world they imagine.</h1>
+            <p>We inspire, equip, and connect people to discover their power and use it to build a better future.</p>
+        </div>
+    </div>
+</div>
+<!-- ================ Heading Main Section Ends ================ -->
+
+
+<!-- ================ Program Section Start ================ -->
+<div class="container programsection container1344" id="ourPrograms">
+	<div class="row">
+    	<div class="col-xs-12 col-sm-12 col-md-12 text-center">
+        	<div class="headingbox">Our Programs</div>
+        </div>
+        
+    	<div class="col-xs-12 col-sm-6 col-md-6 boxsection">
+        	<div class="boxarea">
+            	<figure><img src="images/school-icon.svg" alt=""></figure>
+                <h2>Future Schools</h2>
+                <p>Since 2011, our Dream Directors have partnered with students, teachers, and administrators across the country to turn their high schools into inspiring places that ignite the passion, purpose, and full potential of everyone inside them.</p>
+                <div class="btmbtn"><a href="futureschools.html">Learn More</a></div>
+            </div>
+        </div>
+        
+        <div class="col-xs-12 col-sm-6 col-md-6 lastboxsection">
+        	<div class="boxarea">
+            	<figure><img src="images/hands-icon.svg" alt=""></figure>
+                <h2>Future Camp</h2>
+                <p>Starting in Fall 2018, we will team up with communities across the country to deliver a transformational three-day experience designed to activate purpose and agency in young people at the start of their changemaking journey.</p>
+                <div class="btmbtn mTop30"><a href="futurecamp.html">Sign Up</a></div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ================ Program Section Ends ================ -->
+
+
+<!-- ================ Meaningful Impact Start ================ -->
+<div class="container meaningfulimpact" id="ourImpact">
+	<div class="row">
+    	<div class="col-xs-12 col-sm-12 col-md-12">
+        	<div class="headingnew">Meaningful Impact</div>
+        </div>
+    </div>
+    
+    <div class="row">
+    	<div class="col-xs-12 col-sm-4 col-md-4">
+        	<div class="headingcol"><span><img src="images/star-icon.svg" alt=""></span>35,000</div>
+            <p>young people reached across the country.</p>
+        </div>
+        
+        <div class="col-xs-12 col-sm-4 col-md-4">
+        	<div class="headingcol"><span><img src="images/ribbon-icon.svg" alt=""></span> 95%</div>
+            <p>of alumni surveyed say the Future Project has made a profound and lasting impact on their lives.</p>
+        </div>
+        
+        <div class="col-xs-12 col-sm-4 col-md-4">
+        	<div class="headingcol"><span><img src="images/heart-icon.svg" alt=""></span> 97%</div>
+            <p>of Future Project students show growth in critical mindsets and skills correlated with long-term thriving, according to nationally validated, statistically significant scales.</p>
+        </div>
+    </div>
+</div>
+<!-- ================ Meaningful Impact Ends ================ -->
+
+
+<!-- ================ Banner Bottom Section Start ================ -->
+<div class="container-fluid greybg">
+	<div class="container container1344">
+    	<div class="row">
+        	<div class="col-xs-12 col-sm-12 col-md-12">
+            	<div class="bannernew rel">
+                	<div class="bannerpic"><img src="images/bannernew.png" alt=""></div>
+                    <div class="bannernewcontent">
+                    	<h6>FUTURE SCHOOLS</h6>
+                        <h4>Igniting the potential in schools nationwide.</h4>
+                        <p>We partner with high schools and embed full-time Dream Directors—transformational coaches, organizers, and culture creators trained in our rigorous methodology—who support hundreds of young people in bringing their dreams for self, schools, and society to life.</p>
+                        <div class="findmore"><a href="futureschools.html">Learn More</a></div>
+                    </div>
+                </div>
+            </div>
+            
+            <div class="col-xs-12 col-sm-12 col-md-12">
+            	<div class="bannernewlast rel">
+                	<div class="bannerpic"><img src="images/bannernew2.jpg" alt=""></div>
+                    <div class="bannernewcontent">
+                    	<h6>FUTURE CAMP</h6>
+                        <h4>Activating young people to build a better future.</h4>
+                        <p>Through an intensive, three-day experience—delivered in partnership with schools and  youth-serving organizations across the country—young people learn to explore their purpose, make meaningful choices, and take action in their communities. </p>
+                        <div class="findmore"><a href="futurecamp.html">Sign Up</a></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ================ Banner Bottom Section Ends ================ -->
+
+
+<!-- ================ Community Spotlight Section Start ================ -->
+<div class="container-fluid communityspotlight" id="communitySpotlight">
+	<div class="row">
+    	<div class="col-xs-12 col-sm-12 col-md-12 headingspotlight">Community Spotlight</div>
+    </div>
+    
+    <div class="container-fluid">
+
+<div id="myCarouselfade" class="carousel slide carousel-fade" data-ride="carousel">
+<div class="carousel-inner">
+<div class="item active">
+        
+        <div class="row">
+        	<div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="slidingbanner">
+                    <div class="staticimg"><img src="images/1.jpg" alt="" class="deskShow"><img src="images/1m.jpg" class="mobShow" /></div>
+                </div>
+                
+                <div class="slidingcontent">
+                        
+                              <!-- Slide 1 : Active -->
+                                <div class="headingslider">Dream Team member, Ny’Asia, reframed Black History Month for her school and sparked a new conversation using the hashtag #BlackHistoryIsAmericanHistory.</div>
+                                <div class="btmbtn"><a href="https://www.artspaper.org/articles/2018/2/27/at-hsc-blackhistoryisamericanhistory" target="_blank">Read the story</a></div>                        
+
+                    </div>
+        </div>
+        </div>
+    </div> 
+    
+    <div class="item">
+        
+        <div class="row">
+        	<div class="col-xs-12 col-sm-12 col-md-12">
+                <div class="slidingbanner">
+                    <div class="staticimg"><img src="images/2.jpg" alt="" class="deskShow"><img src="images/2m.jpg" class="mobShow" /></div>
+                </div>
+                
+                <div class="slidingcontent">
+                                                
+                       <div class="headingslider">At Malcolm X. Shabazz High School in Newark, student leaders hosted a Dreamer's Celebration to showcase and honor the projects their peers brought to life.</div>
+                        <div class="btmbtn"><a href="https://www.facebook.com/launchpadnewark/videos/647745612239011/" target="_blank">Watch the recap</a></div>
+                        
+
+                    </div>
+        </div>
+        </div>
+    </div> 
+    
+    
+    
+</div><!-- /.carousel-inner -->
+
+<!-- Indicators -->
+<ol class="carousel-indicators">
+  <li data-target="#myCarouselfade" data-slide-to="0" class="active"></li>
+  <li data-target="#myCarouselfade" data-slide-to="1"></li>
+</ol>
+
+</div><!-- /#myCarousel -->        
+        
+    </div>
+</div>
+
+<div class="clearfix"></div>
+<!-- ================ Community Spotlight Section Ends ================ -->
+
+
+<!-- ================ Community Action Start ================ -->
+<div class="container-fluid communityaction">
+	<div class="row">
+    	<div class="col-xs-12 col-sm-12 col-md-12 text-center">
+        	<div class="headingbox">Community In Action</div>
+        </div>
+    
+    	<div class="communityarea">
+
+ 
+            
+
+
+<!--
+                <div class="col-xs-12 col-sm-4 col-md-3 newcol"><div class="communitycol"><img src="images/community1.png" alt=""></div></div>
+                <div class="col-xs-12 col-sm-4 col-md-3 newcol"><div class="communitycol"><img src="images/community2.png" alt=""></div></div>
+                <div class="col-xs-12 col-sm-4 col-md-3 newcol"><div class="communitycol"><img src="images/community3.png" alt=""></div></div>
+                <div class="col-xs-12 col-sm-4 col-md-3 newcol"><div class="communitycol"><img src="images/community4.png" alt=""></div></div>
+-->
+
+                <div id="instafeed-gallery-feed"></div>
+            
+                <div class="col-xs-12 col-sm-4 col-md-3 newcol"><div class="communitycol videoPlay">
+                    <a href="https://www.youtube.com/watch?v=FBR5uFxupDI" data-lity><img src="images/IntroducingtheDreamDirector2.jpg" alt=""></a>
+                    </div></div>
+                <div class="col-xs-12 col-sm-4 col-md-3 newcol"><div class="communitycol videoPlay">
+                    <a href="https://www.youtube.com/watch?v=q_cw4MQ-LGI" data-lity><img src="images/HighSchool_sThrowSchoolsFirstEverGraduation.jpg" alt=""></a>
+                    </div></div>
+                <div class="col-xs-12 col-sm-4 col-md-3 newcol"><div class="communitycol videoPlay">
+                    <a href="https://www.youtube.com/watch?v=xc2BbXSEBd8" data-lity><img src="images/TFPCribs-BritHarley.jpg" alt=""></a>
+                    </div></div>
+                <div class="col-xs-12 col-sm-4 col-md-3 newcol"><div class="communitycol videoPlay">
+                    <a href="https://www.youtube.com/watch?v=x9ifb-PJJMY" data-lity><img src="images/TrusttheProcess-Kelly_sVlog.jpg" alt=""></a>
+                    </div></div>
+            </div>
+    </div>
+</div>
+<!-- ================ Community Action Ends ================ -->
+
+    
+<!-- ================ What we stand for ================ -->    
+<div class="container whatWeStandFor  container1344" id="whatWeStandFor">
+	<div class="row">
+        
+        <div class="headTopImage"><img src="images/headTopImage.svg" /></div>
+        
+    	<div class="col-xs-12 col-sm-12 col-md-12">
+            <h2>What We Stand For</h2>
+        	<h1>We stand for the possibility<br> 
+                of freedom  for all people.</h1>
+        </div>
+        
+        
+    	<div class="col-xs-12 col-sm-6 col-md-6 colnew">
+        	<p>We stand for the possibility of freedom for all people. Which means we must stand unequivocally against racism, sexism, homophobia and transphobia, religious intolerance, ableism, white supremacy, and any other factors that oppress it. We stand in solidarity with every person—in our community and in the world—experiencing and fighting against these complex and intersectional systems, especially the thousands of young people who had nothing to do with creating</p>
+        </div>
+        
+        <div class="col-xs-12 col-sm-6 col-md-6 colnew">
+        	<p>them but are leading the way in dismantling them nonetheless. We also stand with the people living most at the margins of our society: young people without shelter, without parents or guardians, without citizenship, those living with intellectual or physical disabilities, those in the juvenile justice system. We imagine a future that respects the dignity, humanity, and unique potential of all people. And we are proud to join every person and organization committed to that vision.</p>
+        </div>
+    </div>
+</div>
+<!-- ================ What we stand for ================ -->        
+
+    
+<!-- ================ Join Moment Start ================ -->
+<div class="container joinmoment" id="joinUs">
+	<div class="col-xs-12 col-sm-12 col-md-12 headingspotlight">Join The Movement</div>
+    <div class="col-xs-12 col-sm-12 col-md-12 betterheading">Help build a better future.</div>
+    
+    <div class="row">
+    	<div class="col-xs-12 col-sm-6 col-md-6 formsection supportMonthly">
+        	<h6>1. Support with a monthly donation</h6>
+                <p>Help ensure that all young people have access to a better future.</p>
+                <div class="findmore"><a href="https://thefutureproject.giv.sh/d953">Donate Now</a></div>
+<!--
+                <ul>
+                	<li><a href="#">$5</a></li>
+                    <li><a href="#">$25</a></li>
+                    <li><a href="#">$50</a></li>
+                    <li><a href="#">$100</a></li>
+                    <li><a href="#">Other Amount</a></li>
+                    <li><a href="#">One Time Donation</a></li>
+                </ul>
+-->
+        </div>
+        
+        <div class="col-xs-12 col-sm-6 col-md-6 formsection joinCommunity">
+        	<div class="rightform">
+                <h6>2. Join our Community</h6>
+
+                
+                
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_signup">
+<form action="https://thefutureproject.us2.list-manage.com/subscribe/post?u=d586573f41213e0b0271aee26&amp;id=e824385c82" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+    <div id="mc_embed_signup_scroll">        
+<div class="newsform rel mc-field-group">
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    
+    <input type="text" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="Enter email address">
+    <input class="btn btn-large" value="" type="submit" name="subscribe" id="mc-embedded-subscribe">
+</div>
+    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_d586573f41213e0b0271aee26_e824385c82" tabindex="-1" value=""></div>
+    </div>
+</form>
+</div>
+<script type='text/javascript' src='https://s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[0]='EMAIL';ftypes[0]='email';fnames[5]='MMERGE5';ftypes[5]='text';fnames[6]='MMERGE6';ftypes[6]='text';fnames[7]='MMERGE7';ftypes[7]='zip';fnames[3]='MMERGE3';ftypes[3]='text';fnames[4]='MMERGE4';ftypes[4]='text';fnames[8]='MMERGE8';ftypes[8]='text';fnames[9]='MMERGE9';ftypes[9]='text';fnames[10]='MMERGE10';ftypes[10]='text';fnames[11]='MMERGE11';ftypes[11]='number';fnames[12]='MMERGE12';ftypes[12]='text';fnames[13]='MMERGE13';ftypes[13]='text';fnames[14]='MMERGE14';ftypes[14]='number';fnames[15]='MMERGE15';ftypes[15]='text';fnames[16]='MMERGE16';ftypes[16]='text';fnames[17]='MMERGE17';ftypes[17]='text';fnames[18]='MMERGE18';ftypes[18]='text';fnames[19]='MMERGE19';ftypes[19]='text';fnames[20]='MMERGE20';ftypes[20]='text';fnames[21]='MMERGE21';ftypes[21]='text';fnames[22]='MMERGE22';ftypes[22]='text';fnames[23]='MMERGE23';ftypes[23]='text';fnames[24]='MMERGE24';ftypes[24]='text';fnames[25]='MMERGE25';ftypes[25]='text';fnames[26]='MMERGE26';ftypes[26]='text';fnames[28]='MMERGE28';ftypes[28]='text';fnames[29]='MMERGE29';ftypes[29]='text';fnames[30]='MMERGE30';ftypes[30]='text';fnames[27]='MMERGE27';ftypes[27]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+<!--End mc_embed_signup-->                
+                
+                
+               
+<!--
+               <h6>3. Join The Future Camp</h6>
+               <div class="signupbtn"><a href="futurecamp.html#signUpSection" class="btn">Sign Up Now</a></div>
+-->
+           </div>
+        </div>
+    </div>
+</div>    
+        
+<!-- ================ Footer Area Starts ================ -->
+<div class="container-fluid footer">
+	<div class="container">
+    	<div class="row">
+        	<div class="col-xs-12 col-sm-1 col-md-1 logoleft"><figure><img src="images/logo-small.svg" alt=""></figure></div>
+            <div class="col-xs-12 col-sm-12 col-md-3">
+            	<div class="infoleft">
+                    <h6>The Future Project</h6>
+                    <p>5-9 Union Square West<br>4th Floor<br>New York, NY 10003</p>
+                    <p><a href="#">hello@thefutureproject.org</a><br>(646) 481-6145</p>
+                </div>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-8 footlinks">
+            	<div class="row">
+
+                    <div class="col-xs-12 col-sm-3 col-md-3">
+                    	<h6>Home</h6>
+                        <ul>
+                        	<li><a href="index.html#ourPrograms">Our Programs</a></li>
+                            <li><a href="index.html#ourImpact">Our Impact</a></li>
+                            <li><a href="index.html#communitySpotlight">Community <br>Spotlight</a></li>
+                            <li><a href="index.html#whatWeStandFor">What We Stand For</a></li>
+                            <li><a href="index.html#joinUs">Join Us</a></li>
+                        </ul>
+                    </div>
+                    
+                    
+                    <div class="col-xs-12 col-sm-4 col-md-3">
+                    	<h6>Future Schools</h6>
+                        <ul>
+                        	<li><a href="futureschools.html#overview">Overview</a></li>
+                            <li><a href="futureschools.html#dreamDirectors">Dream Directors</a></li>
+                            <li><a href="futureschools.html#ourModel">Our Model</a></li>
+                            <li><a href="futureschools.html#inquire">Inquire</a></li>
+                        </ul>
+                    </div>
+                    
+                    <div class="col-xs-12 col-sm-3 col-md-3">
+                    	<h6>Future Camp</h6>
+                        <ul>
+                        	<li><a href="futurecamp.html#overview">Overview</a></li>
+                            <li><a href="futurecamp.html#events">Calendar</a></li>
+                            <li><a href="futurecamp.html#signUpSection">Sign Up</a></li>
+                        </ul>
+                    </div>
+                    
+                	<div class="col-xs-12 col-sm-2 col-md-2">
+                    	<h6>About Us</h6>
+                        <ul>
+                        	<li><a href="aboutus.html#mission">Our Why</a></li>
+                            <li><a href="aboutus.html#location">Locations</a></li>
+                            <li><a href="aboutus.html#teamSection">Team</a></li>
+                            <li><a href="https://careers.thefutureproject.org/" target="_blank">Careers</a></li>
+                            <li><a href="https://www.youtube.com/playlist?list=PL5B8tR0fawD455at8qTcYLNaMh8CqsenZ" target="_blank">Videos</a></li>
+                        </ul>
+                    </div>
+                    
+                    
+                </div>
+            </div>
+        </div>
+        
+        <div class="footbtm">
+        	<div class="row">
+            	<div class="col-xs-12 col-sm-8 col-md-9"><p>Copyright &copy; 2018 The Future Project. All Rights Reserved.</p></div>
+                <div class="col-xs-12 col-sm-4 col-md-3 socialright">
+                	<ul>
+                    	<li>Follow us:</li>
+                        <li><a href="https://www.facebook.com/tfpinspire/" target="_blank"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://twitter.com/dreamdirectors" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.instagram.com/dreamdirectors/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                        <li><a href="https://www.youtube.com/user/myfutureproject/" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- ================ Footer Area Ends ================ -->
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+<!-- Bootstrap Js -->
+<script src="js/bootstrap.min.js"></script>
+
+<!-- Slick Nav -->
+<script src="http://cdnjs.cloudflare.com/ajax/libs/modernizr/2.6.2/modernizr.min.js"></script>
+<script src="SlickNav/jquery.slicknav.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+	$('#menu').slicknav();
+    $('.slicknav_btn').click(function(){
+        $('.logo').toggleClass('showNo');
+        $('.donate').toggleClass('showNo');
+    });
+    $("#myCarousel").carousel({interval: 500, pause: "hover"});    
+});
+    
+window.onscroll = function() {myFunction()};
+var header = document.getElementById("Myheader");
+var sticky = header.offsetTop;
+    
+     function myFunction() {
+      if (window.pageYOffset > sticky) {
+        header.classList.add("fixedNav");
+        $('body').css('padding-top','70px');
+      } else {
+        header.classList.remove("fixedNav");
+        $('body').css('padding-top','0px');
+        }    
+     }
+
+$('.carousel').carousel({
+  pause: false
+})    
+    
+</script>
+    
+    
+    
+<!-- Countdown Numbering -->
+<script src="js/numscroller-1.0.js"></script>
+<link href="css/lity.css" rel="stylesheet">
+<script src="js/lity.js"></script>    
+<script type="text/javascript" src="js/instafeed.min.js"></script>
+<script type="text/javascript">
+// How to get an access token:
+// http://jelled.com/instagram/access-token
+
+// TODO:
+// - improve UI
+// - make it easy to copy and paste image url
+
+// {{model.user.username}}, {{likes}} likes
+
+//var galleryFeed = new Instafeed({
+//  get: "user",
+//  userId: 363848267,
+//  accessToken: "363848267.cf453b0.b328fbe1e0314b65bde0787e8b25896a",
+//  resolution: "standard_resolution",
+//  useHttp: "true",
+//  limit: 4,
+//  template: '<div class="col-xs-12 col-sm-4 col-md-3 newcol {{orientation}}"><div class="communitycol"><a href="{{link}}" style="background-image:url({{image}});"><img src="images/pixy.png" /></a></div></div>',
+//  target: "instafeed-gallery-feed",
+//  after: function() {
+//    // disable button if no more results to load
+//    if (!this.hasNext()) {
+//      btnInstafeedLoad.setAttribute('disabled', 'disabled');
+//    }
+//  },
+//});
+//galleryFeed.run();
+    
+    
+    
+    
+//or This code    
+    
+var galleryFeed = new Instafeed({
+    get: "tagged",
+    tagName: 'embracepossible',
+    userId: 363848267,
+    accessToken: "363848267.cf453b0.b328fbe1e0314b65bde0787e8b25896a",
+//    filter: function(image) {
+//             return image.tags.indexOf('TheFutureProject') >= 0;
+//        },        
+  resolution: "standard_resolution",
+  useHttp: "true",
+  limit: 4,
+  template: '<div class="col-xs-12 col-sm-4 col-md-3 newcol {{orientation}}"><div class="communitycol"><a href="{{link}}" style="background-image:url({{image}});"><img src="images/pixy.png" /></a></div></div>',
+  target: "instafeed-gallery-feed",
+});
+galleryFeed.run();        
+    
+    
+    
+    
+    
+    
+    
+</script>
+    
+</body>
+</html>

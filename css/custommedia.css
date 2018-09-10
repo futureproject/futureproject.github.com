@@ -1,0 +1,971 @@
+@charset "utf-8";
+/* CSS Document */
+
+/* Update changes */
+@media (min-width: 1400px){
+	.container1344 {
+	  width: 1344px
+	}
+}
+
+
+@media only screen and (min-width:969px) and (max-width:1024px){
+	.bluebar h4{line-height:1.3;}
+	.headingcol{font-size:62px;}
+	.bannernewcontent{left:20px;}
+	.slidingcontent{top:-30px; left:40px;}
+	.formsection li{padding:12px;}
+	.communityarea .newcol{padding:0px 4px 8px;}
+	
+	.aboutpage .bannernewcontent h4{font-size:42px;}
+	.padleft50{padding-left:15px !important;}
+	.futureschool .bannernewcontent{left:0px; text-align:center;}
+	.futureschool .bottomfoot .findmore{float:none;}
+	.futuredircontent{padding:0px 15px; top:18%;}
+	.futuredircontent h2{font-size:26px; margin-top:0;}
+	.futuredircontent .keyheading{margin-top:20px;}
+	
+	.innerbannercontent h1{font-size:80px;}
+	.innerbannercontent p{font-size:18px;}
+	.toursection .headertxt{margin-top:-100px;}
+	.toursection .infolist .rightdetail p{font-size:14px;}
+	.toursection .bottomfoot p br{display:none;}
+	.signupsection .headertxt{margin-top:-110px;}
+	.navright li.mobhide a{padding:15px 10px;}
+ 	.headercontainernew{min-height:inherit;}
+}
+
+@media screen and (max-width:1023px) {
+    
+    .programsection .headingbox{
+        margin-top: -30px;
+    }
+    
+    .mapcontent{
+        color: #000;
+    }
+    
+    .infoleft{
+        border: none;
+    }    
+.bluebar .headingleft{font-size:18px;}	
+ .bluebar h4{font-size:19px;}
+ .statictxt h3{font-size:42px;}
+ .mainheading{padding-top:40px;}
+ .mainheading h1{font-size:28px;}
+ .programsection .boxarea figure{margin-top:0;}
+ .headingcol{font-size:28px; min-height:80px;}
+ .meaningfulimpact p{padding:0px 15px;}
+ .bannernewcontent{left:20px;}
+ .bannernewcontent h4{font-size:28px; line-height:1.3;}
+ .bannernewcontent h6{font-size:22px;}
+ .bannernewcontent .findmore{margin-top:15px;}
+ .slidingcontent{top:0; left:0; max-width:inherit; margin-bottom:35px;}
+ .bannernewlast .bannernewcontent{left:0 !important; right:inherit; padding-left:20px !important;}
+ .formsection li{margin-bottom:3px;}
+ .bluebar .headingleft{text-align:center;}
+ .bluebar h4{line-height:1.3; text-align:center;}
+ .bluebar .textflat{position:inherit;}
+ 
+ .programsection .boxarea .btmbtn{position:inherit; width:100%;}
+ .communitycol{max-width:inherit;}
+ .communityarea .newcol{padding:0px 4px 8px;}
+ 
+ .aboutpage .bannernewcontent{left:0px; max-width:inherit; text-align:center;}
+ .aboutpage .bannernewcontent h4{font-size:28px;}
+ .aboutheading h1,.partners h1{font-size:28px;}
+ .aboutheading{padding-top:40px; padding-bottom:40px;}
+ .keybg{margin-top:40px;}
+ .mapcontent{position:inherit;}
+ .padleft50{padding-left:15px !important; padding-bottom:50px;}
+ .padright140{padding-right:15px !important;}
+/* .mapsection{background:#212d3c; float:left;}*/
+ .teamsection p br{display:none;}
+ 
+ .futureschool .bannernewcontent h3{font-size:40px;}
+ .futureschool .bannernewcontent h5{font-size:24px;}
+ .futureschool .bottomfoot .findmore{float:none;}
+ .futurecontent h1{font-size:24px;}
+ .futurecontent p{font-size:14px;}
+ .futurecontent .findmore{margin-top:20px;}
+ .futuredircontent{padding:20px 15px 0 15px; position:inherit; top:0; transform: translateY(0%); -webkit-transform: translateY(0); -ms-transform: translateY(0); background:#212d3c;}
+ .futuredircontent h2{font-size:26px; margin-top:0px;}
+ .dircentr{text-align:center;}
+ .gallerylist img{min-height:320px;}
+ .futureschoolbtm .bannernewcontent h4{font-size:24px;}
+ .futureschoolbtm .bannernewcontent h4 br{display:none;}
+ 
+ .innerbannercontent h1{font-size:80px;}
+ .innerbannercontent p{font-size:18px;}
+ .innerbannercontent{position:relative; max-width:inherit; top:0; text-align:center;}
+ .innerbannercontent .findmore{float:none; margin-right:0; margin-bottom:10px;}
+ .whatitsection h2 br{display:none;}
+ .toursection .headertxt{margin-top:0;}
+ .toursection .mapinfoleft{text-align:center;}
+ .toursection .infolist{text-align:center;}
+ .toursection .infolist .icon{float:none;}
+ .toursection .infolist .rightdetail{float:none;}
+ .toursection .bottomfoot{float:none;}
+ .toursection .findmore{float:none;}
+ .signupsection .headertxt{margin-top:0;}
+ .logo{text-align:center;}
+ .aboutpage{margin-top:0;}
+ .navright li.mobhide a{padding:15px 10px;}
+ .lastpic{padding-top:15px;}
+ .innerbannercontent{position:relative; top:0; transform: translateY(0%); -webkit-transform: translateY(0); -ms-transform: translateY(0);}
+ .headercontainernew{min-height:inherit;}
+    
+.deskShow{
+    display: none;
+}
+.mobShow{
+    display: block;
+}    
+}
+
+@media screen and (max-width: 767px) {
+ 
+.whatWeStandFor{
+    padding: 70px 15px;
+    margin-top: 120px;
+    border-radius: 0;
+}
+.whatWeStandFor h1{
+    font-size: 24px;
+    padding: 0;
+    margin: 10px 0;
+}
+.whatWeStandFor h2{
+font-size: 24px;
+    margin: 10px 0;
+    padding: 0;
+}
+    .ourModel{
+        background: #242E3C;
+    }    
+    
+ 
+ .carousel-fade .carousel-inner .carouselimage{text-align:center;}
+ .statictxt{bottom:40px; text-align:center;}
+ .findmore{float:none;}
+ .programsection .boxarea{margin-top:30px;}
+ .programsection .boxsection{margin-top:-60px;}
+    .programsection .boxarea{
+        padding: 40px 20px;
+    }
+ .meaningfulimpact p{padding-bottom:35px;}
+ .bannernewcontent{position:inherit; top:0; left:0px; max-width:inherit; text-align:center; transform:inherit; padding: 20px 10px; background: #fff;}
+    .bannernewcontent p{
+        padding: 10px;
+    }    
+ .bannernewcontent h6, .bannernewcontent h4, .bannernewcontent p{color:#242f3e;}
+ .bannernewlast .bannernewcontent{position:inherit; top:0; left:0; max-width:inherit; text-align:center; padding-left:0 !important;}
+ .slidingcontent{position:inherit;}
+ .communityarea{margin-top:-30px;}
+ .communitycol img{width:100%;}
+ .logoleft{text-align:center;}
+ .infoleft{border-right:0; border-top:1px solid #3b4654; margin-top:30px; margin-right:0; text-align:center;}
+ .footlinks{text-align:center;}
+ .footer h6{margin-top:35px; margin-bottom:15px;}
+ .footbtm{text-align:center;}
+ .socialright{text-align:center;}
+ .footbtm .socialright ul{float:none;}
+ .rightform{border-left:0;  padding-left:15px; padding-top:35px;}
+ .bluebar .headingleft{text-align:center;}
+ .mainheading{padding-bottom:40px;}
+ .communityarea .newcol{padding:0px 15px 8px;}
+ .communitycol{max-width:inherit;}
+ 
+ .aboutheading h1 br{display:none;}
+ .bottomfoot p{text-align:center;}
+ .mapsection{margin-top:25px;}
+ .padright140{padding-bottom:30px;}
+ .teamlist li{padding:0px 15px 15px;}
+ .maprightcontent{position:relative; top:0; right:0;}
+ .teamcontent .colnew{margin-bottom:30px;}
+ .bottomfoot p{color:#fff;}
+ .futurecontent{padding-top:40px;}
+ .futurecontent .findmore{margin-bottom:20px;}
+ .futureinfosection{margin-top:25px; margin-bottom: 25px;}
+ .futuredircontent{top:0;}
+ .futurelocation{padding-bottom:0;}
+ .mainheading h1 br{display:none;}
+ .gallerylist .col1, .gallerylist .col2, .gallerylist .col3{width:100%; text-align:center;}
+ .gallerylist img{min-height:inherit;}
+ .gallerylist{margin-top:25px;}
+ 
+ .aboutpage .bannernewcontent{
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#212d3c+0,212d3c+31&0+0,1+31 */
+background: -moz-linear-gradient(top, rgba(33,45,60,0) 0%, rgba(33,45,60,1) 31%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(33,45,60,0) 0%,rgba(33,45,60,1) 31%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(33,45,60,0) 0%,rgba(33,45,60,1) 31%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00212d3c', endColorstr='#212d3c',GradientType=0 ); /* IE6-9 */     
+     padding:15px 15px 35px 15px; position:inherit; top:0; transform: translateY(0%); -webkit-transform: translateY(0); -ms-transform: translateY(0); margin-top: -110px;}
+ .futureschool .bannernewcontent h3{font-size:36px;}
+ .futureschool .bannernewcontent h5{font-size:18px;padding: 20px 40px;}
+ 
+ .futureschoolbtm .bannernewcontent{background:#f3f3f3; padding:15px 15px; position:inherit; top:0; transform: translateY(0%); -webkit-transform: translateY(0); -ms-transform: translateY(0);}
+ .futuredircontent .btmbtn{margin-top:20px; margin-bottom:20px;}
+ 
+ .innerbannercontent .bottomfoot p{color:#212D3C;}
+ .innerbannercontent h1{font-size:36px;}
+ .whatitsection h2{font-size:28px;}
+ .headertxt span{font-size:34px;}
+ .innerbannercontent .bottomfoot{margin-bottom:50px;}
+ .countdowsection .headingcol span img{margin-top:0;}
+ .countdowsection p.bigcount{margin-top:0;}
+ .whatitsection p{margin-bottom:20px;}
+ .tourcontainernew::before{content: ""; border-top:50px solid white; border-right:780px solid transparent;}
+ .tourmain{padding-top:40px; padding-bottom:50px;}
+ .toursection h2{font-size:28px;}
+ .testimonialsection .carousel-caption{position:relative; text-align:center; max-width:inherit; left:0;}
+ .testimonialsection .carousel-caption h3{font-size:18px; margin-top:25px;}
+ .testimonialsection .carousel-indicators{width:100%; text-align:center; bottom:43px; left:0;}
+ .testimonialsection .carousel-fade .carousel-inner .carouselimage{text-align:center;}
+ .signupsection .headtop{padding-top:20px;}
+ .signupsection h3{font-size:28px;}
+ 
+ 
+  
+ .statictxt{position:relative; max-width:inherit; bottom:0px;}
+ .lastpic{padding-top:0;}
+ .lastsection .membername{margin-top:0px;}
+ .innerbannercontent{position:relative; top:0; transform: translateY(0%); -webkit-transform: translateY(0); -ms-transform: translateY(0);}
+ .headercontainernew{min-height:inherit;}
+}
+
+
+@media screen and (max-width:479px){
+.statictxt {bottom:0px; top: auto; margin-bottom: 50px;
+    margin-top: -140px;
+/* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#ffffff+0,ffffff+26&0+0,1+26 */
+background: -moz-linear-gradient(top, rgba(255,255,255,0) 0%, rgba(255,255,255,1) 26%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 26%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom, rgba(255,255,255,0) 0%,rgba(255,255,255,1) 26%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#00ffffff', endColorstr='#ffffff',GradientType=0 ); /* IE6-9 */
+    
+    }
+.maprightcontent{position:relative; top:0; right:0;}
+.mapcontent li{width:100%;}
+
+.tourcontainernew::before{content: ""; border-top:50px solid white; border-right:500px solid transparent;}
+}
+
+@media only screen and (max-width: 1200px) {
+.pin1{
+    top: 175px;
+    right: 58px;
+}
+.pin2{
+    top: 150px;
+    right: 47px;
+}
+.pin3{
+    top: 397px;
+    right: 95px;
+}
+.pin4{
+    top: 187px;
+    left: 370px;
+}
+.pin5{
+    top: 269px;
+    right: 170px;
+}
+.pin6{
+    top: 126px;
+    right: 39px;
+}
+.pin7{
+    top: 133px;
+    left: 376px;
+}
+.pin8{
+    top: 244px;
+    left: 198px;
+}
+.pin9{
+    top: 306px;
+    left: 338px;
+}
+.pin10{
+    top: 220px;
+    left: 16px;
+}     
+}
+@media only screen and (max-width: 768px) {
+
+    .footlinks{
+        display: none;
+    }
+    .formsection li{
+        width: 25%;
+    }
+    
+    .tourmain{
+        max-width: 340px;
+    }
+    .headercontainernew::after{
+        z-index: -1;
+    }
+    
+.pin1{
+    top: 55px;
+    right: 18px;
+}
+.pin2{
+    top: 45px;
+    right: 13px;
+}
+.pin3{
+    top: 157px;
+    right: 35px;
+}
+.pin4{
+    top: 81px;
+    left: 160px;
+}
+.pin5{
+    top: 114px;
+    right: 220px;
+}
+.pin6{
+    top: 29px;
+    right: 1px;
+}
+.pin7{
+    top: 53px;
+    left: 161px;
+}
+.pin8{
+    top: 104px;
+    left: 84px;
+}
+.pin9{
+    top: 132px;
+    left: 144px;
+}
+.pin10{
+    top: 94px;
+    left: 4px;
+}       
+}
+
+@media only screen and (max-width: 1400px){
+    
+.usMapPins .pin1{
+    top: 219px;
+    left: 16px;
+}
+.usMapPins .pin2{
+    top: 255px;
+    left: 37px;
+}
+.usMapPins .pin3{
+    top: 162px;
+    left: 400px;
+}
+.usMapPins .pin4{
+    top: 166px;
+    left: 453px;
+}
+.usMapPins .pin5{
+    top: 184px;
+    right: 216px;
+}
+.usMapPins .pin6{
+    top: 206px;
+    right: 202px;
+}
+.usMapPins .pin7{
+    top: 175px;
+    left: 539px;
+}
+.usMapPins .pin8{
+    top: 152px;
+    left: 544px;
+}
+.usMapPins .pin9{
+    top: 143px;
+    left: 561px;
+}
+.usMapPins .pin10{
+    top: 120px;
+    left: 558px;
+}
+.usMapPins .pin11{
+    top: 130px;
+    left: 580px;
+}
+.usMapPins .pin12{
+    top: 170px;
+    left: 530px;
+}
+.usMapPins .pin13{
+    top: 190px;
+    left: 536px;
+}
+.usMapPins .pin14{
+    top: 390px;
+    left: 523px;
+}
+.usMapPins .pin15{
+    top: 230px;
+    left: 327px;
+}
+.usMapPins .pin16{
+    top: 283px;
+    left: 454px;
+}
+.usMapPins .pin17{
+    top: 160px;
+    left: 544px;
+}
+.usMapPins .pin18{
+    top: 161px;
+    left: 337px;
+}
+.usMapPins .pin19{
+    top: 287px;
+    left: 67px;
+}
+.usMapPins .pin20{
+    top: 364px;
+    left: 270px;
+}
+.usMapPins .pin21{
+    top: 364px;
+    left: 270px;
+}
+    .futuredircontent{
+        top: 23%;
+    }
+    
+}
+
+@media only screen and (max-width: 1200px){
+    .mapcontent .padleft50,
+    .mapcontent .padright140{
+        width: 600px;
+        float: none;
+        padding: 0 !important;
+        padding-bottom: 80px;
+        margin: auto;
+    }
+    
+    .programsection{
+        background: #fff;
+        border-radius: 7px;
+        margin-bottom: 40px;
+    }
+    .futureinfo{
+        background: #212d3c;
+    }
+    
+    .mapcontent{
+        position: relative;
+        transform:none;
+        padding: 40px 0;
+    }
+    .mapcontent .headingcol{
+        display: none;
+    }
+    .mapcontent li{
+        width: 20%;
+    }
+    .mappic{
+        display: none;
+    }
+.usMapPins .pin1{
+    top: 159px;
+    left: -3px;
+}
+.usMapPins .pin2{
+    top: 185px;
+    left: 7px;
+}
+.usMapPins .pin3{
+    top: 112px;
+    left: 38px;
+}
+.usMapPins .pin4{
+    top: 116px;
+    left: 433px;
+}
+.usMapPins .pin5{
+    top: 140px;
+    right: 80px;
+}
+.usMapPins .pin6{
+    top: 161px;
+    right: 64px;
+}
+.usMapPins .pin7{
+    top: 134px;
+    left: 515px;
+}
+.usMapPins .pin8{
+    top: 112px;
+    left: 529px;
+}
+.usMapPins .pin9{
+    top: 100px;
+    left: 546px;
+}
+.usMapPins .pin10{
+    top: 80px;
+    left: 538px;
+}
+.usMapPins .pin11{
+    top: 80px;
+    left: 560px;
+}    
+.usMapPins .pin12{
+    top: 120px;
+    left: 510px;
+}    
+.usMapPins .pin13{
+    top: 150px;
+    left: 512px;
+}    
+.usMapPins .pin14{
+    top: 340px;
+    left: 503px;
+}    
+.usMapPins .pin15{
+    top: 180px;
+    left: 310px;
+}    
+.usMapPins .pin16{
+    top: 230px;
+    left: 434px;
+}    
+.usMapPins .pin17{
+    top: 130px;
+    left: 524px;
+}    
+.usMapPins .pin18{
+    top: 108px;
+    left: 317px;
+}    
+.usMapPins .pin19{
+    top: 257px;
+    left: 267px;
+}    
+.usMapPins .pin20{
+    top: 214px;
+    left: 170px;
+}    
+.usMapPins .pin21{
+    top: 234px;
+    left: 50px;
+}    
+
+}
+
+@media only screen and (max-width:678px){
+    .tourcontainernew{
+        padding-bottom: 50px;
+    }
+    .footerlight .infoleft{
+        border-right: none !important;
+        border-top-color: #EEF0F2;
+    }
+    
+    .teamlist{
+        padding: 0;
+    }
+    .teamlist li{
+        width: 100%;
+    }
+    
+    .tourcontainernew{
+        padding-top: 0;
+        margin-top: 0;
+    }
+    .toursection .infolist{
+        padding-bottom: 50px;
+    }
+    .tourcontainernew::before{
+        border-top: 75px solid white;
+    }
+    .mapcontent .padright140{
+        max-width: 300px;
+    }
+    .mapcontent .padleft50{
+        max-width: 300px;
+    }
+    .mapcontent .padleft50 ul{
+        padding: 20px 40px;
+    }
+    .mapcontent li{
+        width: 50%;
+    }
+.usMapPins .pin1{
+    top: 79px;
+    left: -3px;
+}
+.usMapPins .pin2{
+    top: 100px;
+    left: 9px;
+}
+.usMapPins .pin3{
+    top: 50px;
+    left: 182px;
+}
+.usMapPins .pin4{
+    top: 51px;
+    left: 210px;
+}
+.usMapPins .pin5{
+    top: 60px;
+    right: 30px;
+}
+.usMapPins .pin6{
+    top: 71px;
+    right: 20px;
+}
+.usMapPins .pin7{
+    top: 54px;
+    left: 245px;
+}
+.usMapPins .pin8{
+    top: 53px;
+    left: 257px;
+}
+.usMapPins .pin9{
+    top: 38px;
+    left: 265px;
+}
+.usMapPins .pin10{
+    top: 29px;
+    left: 257px;
+}
+.usMapPins .pin11{
+    top: 25px;
+    left: 276px;
+}
+.usMapPins .pin12{
+    top: 50px;
+    left: 250px;
+}
+.usMapPins .pin13{
+    top: 60px;
+    left: 262px;
+}
+.usMapPins .pin14{
+    top: 160px;
+    left: 245px;
+}
+.usMapPins .pin15{
+    top: 85px;
+    left: 150px;
+}    
+.usMapPins .pin16{
+    top: 110px;
+    left: 214px;
+}
+.usMapPins .pin17{
+    top: 40px;
+    left: 254px;
+}
+.usMapPins .pin18{
+    top: 51px;
+    left: 153px;
+}
+.usMapPins .pin19{
+    top: 120px;
+    left: 128px;
+}
+.usMapPins .pin20{
+    top: 104px;
+    left: 82px;
+}
+.usMapPins .pin21{
+    top: 110px;
+    left: 20px;
+}
+
+    
+    .headercontainernew{
+        padding-bottom: 30px;
+    }
+    .futurecontent .findmore{
+        text-align: left;
+    }    
+    .ourModelList{
+        margin: 20px;
+    }
+    .futuredircontent{
+        padding: 20px;
+    }
+    .programsection .boxarea:hover{
+        background: #f6f6f6;
+    }
+    .programsection .lastboxsection{
+        margin-bottom: 20px;
+    }
+    .formsection .findmore{
+        text-align: left;
+    }
+    
+    
+    
+.thankBox{
+    margin-bottom: 40px;
+}
+.thankBox h1{
+    font-size: 42px;
+}
+.thankBox p{
+    font-size: 18px;
+    margin: 0 40px;
+}
+.thankBox .findmore{
+    display: block;
+}
+    
+}
+
+
+
+@media only screen and (max-width:500px){
+    .slidingcontent .headingslider{
+        word-break: break-word;
+    }    
+    .communityspotlight .carousel-indicators{
+        bottom: -20px;
+    }
+    
+    .aboutpage .bannernewcontent{
+        margin-top:-130px;
+        padding-top: 60px;
+    }    
+    
+    .locationsF li{
+        width: 40%;
+    }
+    
+    
+}
+
+@media only screen and (max-width:305px){
+    .usMapPins{
+        display: none;
+    }
+}
+    .headercontainer{
+        width: 100%;
+    }
+    .navright ul li.active.mobhide{
+        padding: 0;
+        margin-left: 8px;
+    }
+    .navright li:last-child{
+        padding: 0;
+    }
+    #Myheader.fixedNav{
+        padding: 0;
+    }
+    #Myheader.fixedNav .row{
+        width: 100%;
+    }
+
+
+
+
+
+
+
+/*Slick Nav*/
+
+@media screen and (max-width: 1045px){
+ /* #menu is the original menu */
+	.js #menu {
+		display:none;
+	}
+	
+	.js .slicknav_menu {
+		display:block;
+	}
+
+    
+    
+ .slicknav_btn { background: #4bccef url(../images/nav-button.png) no-repeat center; position: absolute; right: 0px; top: 10px; display: block; cursor: pointer; overflow: hidden; height: 30px; width: 40px; z-index: 999999; border-radius: 3px !important; }
+
+.slicknav_btn.slicknav_open { background: #4bccef url(../images/close-nav-button.png) no-repeat center;/* Close icon */ color: #fff; z-index: 999999; }
+
+.slicknav_menutxt { display: none; }
+ .slicknav_parent.slicknav_open ul li a{padding-left:25px; color:#2785e7;}
+
+    
+    .logo{
+        padding: 17px 0 0 0;
+        left: 15px;
+/*        z-index: -1;*/
+    }
+    .donate{
+/*        z-index: -1;*/
+    }
+    
+    
+.logo{position:absolute; top:0px; text-align:left;}
+ .mobmenu{min-height:100px;}
+ .donate{display:block; position:absolute; right:10px; top:20px;}
+ .donate a{color:#fff; background-color:#4BCCEF; padding:5px 10px; border-radius:6px;}  
+ .mobmenu .socialmenu{padding-top:20px; width: 100%;}
+ .mobmenu .socialmenu span{display:inline-block; text-align:left;width: 40%;}
+ .mobmenu .socialmenu a{display:inline-block; text-align: right;}
+ .mobmenu .socialmenu{display:inline-block;}
+    
+    
+    
+    #Myheader.fixedNav{
+        height: 90px;
+        box-shadow: 0 3px 20px 0 rgba(0,0,0,0.12);
+        padding: 0;
+    }
+    .navright ul li.homeButton{
+        display: block;
+    }
+    #Myheader.fixedNav .row{
+        width: 100%;
+    }
+    .headercontainer{
+        width: 100%;
+    }
+    .logo img{
+        width: 57px;
+    }
+    .slicknav_nav{
+        z-index: 1;
+    }
+    
+    .slicknav_btn{
+        top: 30px;
+        right: 15px;
+    }
+    .donate{
+        top: 34px;
+        right: 80px;
+    }
+    .slicknav_btn{
+        background-color: transparent;
+    }
+    .slicknav_btn.slicknav_open{
+        background-color: transparent;
+    }
+    .donate a{
+        font: bold 14px 'Proxima Nova Rg', sans-serif;
+        text-transform: uppercase;
+        letter-spacing: 4px;
+        padding: 10px 10px;
+    }
+    .slicknav_menu ul li a{
+        padding: 20px 10px !important;
+    }
+    .mobmenu .socialmenu{
+        padding-top: 50px;
+        padding-bottom: 90px;
+    }    
+
+    .slicknav_menu ul li a{
+        text-align: left;
+        margin: 0px 37px;
+        background: url(../images/rightArrow.png) center right no-repeat;
+    }
+    .slicknav_menu ul li:last-child a{
+        margin: 0;
+        background: none;
+    }
+    
+    .showNo{
+        display: none;
+    }
+    .slicknav_nav li.active.mobhide a{
+        content: "Donate Now";
+        background: #4BCCEF;
+        color: #fff;
+        text-align: center;
+        display: block;
+        border-radius: 6px;
+        /* donate now: */
+        font-family: ProximaNova-Bold;
+        font-size: 14px;
+        color: #FFFFFF;
+        letter-spacing: 5.25px;
+        margin: 20px 37px 0 37px;
+    }
+    
+}
+
+
+@media only screen and (max-width:1024px){
+    #dreamDirectors .futureinfosection{
+        margin-top: -7px;
+        padding-bottom: 20px;
+    }
+    #dreamDirectors .futuredircontent{
+        padding-top: 20px;
+    }
+    #dreamDirectors .communityspotlight .carousel-indicators{
+        bottom: -20px;
+    }
+    .futurecontent p{
+        font-size: 13px;
+        line-height: 23px;
+    }
+    
+}
+
+
+
+
+@media only screen and (min-width:1024px) and (max-width:1200px){
+    #dreamDirectors .futuredircontent{
+        position: relative;
+        padding: 100px 10px 0 10px;
+    }
+    #dreamDirectors .futuredircontent h2{
+        font-size: 28px;
+    }
+    #dreamDirectors .dircentr{
+        position: absolute;
+        right: 0;
+        bottom: -73px;
+    }
+    .futurecontent h1{
+        font-size: 32px;
+    }
+    #dreamDirectors .futuredircontent .btmbtn{
+        margin-top: 30px;
+    }
+    .pointsSystem .col-md-3 h3{
+        padding: 11px 20px;
+        font-size: 14px;
+    }
+}
+
+@media only screen and (max-width:1400px){
+    #dreamDirectors .futuredircontent{
+        padding-left: 50px;
+    }
+    #dreamDirectors .futuredircontent h2{
+        font-size: 30px;
+    }
+    #dreamDirectors .futuredircontent{
+        top: 19%;
+    }
+    #dreamDirectors .futuredircontent .keyheading{
+        margin-top: 35px;
+    }
+}
+
+
+@media only screen and (min-width:1000px) and (max-width:1024px){
+    
+    #dreamDirectors .dircentr{
+        bottom: -180px;
+    }
+    
+}

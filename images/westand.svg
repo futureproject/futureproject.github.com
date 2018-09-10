@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="102px" height="97px" viewBox="0 0 102 97" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>Clip 4</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <polygon id="path-1" points="0 0.11930292 101.878509 0.11930292 101.878509 96.7483715 0 96.7483715"></polygon>
+    </defs>
+    <g id="Future-Project-Desktop" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage--update" transform="translate(-660.000000, -5480.000000)">
+            <g id="homepage/what-we-stand-for" transform="translate(53.000000, 5480.000000)">
+                <g id="arrow-icon" transform="translate(607.000000, 0.000000)">
+                    <g id="Group-5">
+                        <mask id="mask-2" fill="white">
+                            <use xlink:href="#path-1"></use>
+                        </mask>
+                        <g id="Clip-4"></g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
