@@ -251,7 +251,7 @@ a.carousel-control.right { right: 0; background: none; border: 0;}
 .bluebar{background:#4bcbee; padding-top:25px; padding-bottom:25px;}
 .bluebar .headingleft{font-family: 'Oswald'; font-weight:500; color: #212D3C; line-height:91px; font-size:26px; text-transform:uppercase;}
 .bluebar .headingleft span{display:inline-block; min-height:91px;}
-.bluebar h4{font-family: 'Tiempos Headline'; font-weight:500; color:#fff; font-size:27px; line-height:78px;}
+.bluebar h4{font-family: 'Tiempos Headline'; font-weight:500; color:#fff; font-size:27px; line-height:37px;}
 .bluebar .textflat{position:absolute; left:53px;}
 
 /********************************/
@@ -799,8 +799,8 @@ transition: all 300ms ease;
     right: 130px;
 }
 .pin4{
-    top: 220px;
-    left: 430px;
+    top: 180px;
+    left: 413px;
 }
 .pin5{
     top: 310px;
