@@ -1887,15 +1887,6 @@
                     </div>
                 	<div class="col-xs-12 col-sm-3 col-md-3 mbot25">
                     	<figure>
-                        <img src="images/staff/advisors/team_shah.jpg" alt="" class="showMe">
-                        <img src="images/staff/advisors/team_shah.jpg" alt="" class="hideMe">
-                        </figure>
-
-                        <div class="membername">Sonal Shah</div>
-                        <div class="memberposition">Former Director of the Office of Social Innovation and Civic Participation in the White House</div>
-                    </div>
-                	<div class="col-xs-12 col-sm-3 col-md-3 mbot25">
-                    	<figure>
                         <img src="images/staff/advisors/team_valarie.jpg" alt="" class="showMe">
                         <img src="images/staff/advisors/team_valarie.jpg" alt="" class="hideMe">
                         </figure>
@@ -2033,7 +2024,10 @@
             <div class="container">
                       <div class="row" style="padding-top: 50px;">
                           
-                          
+
+                            <div class="col-xs-6 col-md-2">
+                                <img src="images/partnerslogos/logos/coach@2x.png" />  
+                            </div>                          
                             <div class="col-xs-6 col-md-2 partnersLogo">
                                 <img src="images/partnerslogos/logos/Ashoka-logo-png@2x.png" />  
                             </div>
@@ -2221,11 +2215,11 @@ $(function(){
 //      console.log($allLogos[index]);
 //    $imgArr.eq(Math.floor(Math.random()*$imgArr.length)).show();
   });
-var $currentLogos = $allLogos.slice(0, 12);
-var $hiddenLogos = $allLogos.slice(12,20);
+var $currentLogos = $allLogos.slice(0, 11);
+var $hiddenLogos = $allLogos.slice(11,20);
 var hiddenNumber = $hiddenLogos.length;    
 var randomNumber = 8;
-$('.partners .row .partnersLogo').slice(12).remove();
+$('.partners .row .partnersLogo').slice(11).remove();
     
 //var $tempNumber = [];    
 
@@ -2270,8 +2264,8 @@ $('.partners .row .partnersLogo').slice(12).remove();
     
     function swapplogos(){
         
-        var $currentRandomNumber = Math.floor(Math.random() * 12);
-        var $hiddenRandomNumber = Math.floor(Math.random() * 8);
+        var $currentRandomNumber = Math.floor(Math.random() * 11);
+        var $hiddenRandomNumber = Math.floor(Math.random() * 9);
         var currentItem = $('.partners .row .partnersLogo').eq($currentRandomNumber).children();        
         
         if($hiddenRandomNumber == $currentRandomNumber){
