@@ -1100,6 +1100,21 @@ var sticky = header.offsetTop;
         header.classList.remove("fixedNav");
         }    
      }
+
+$("select#Field12").click(function(){
+    var interestedCamps = $("#Field12 option:selected").val();
+    $('.interestedCamp').text(interestedCamps);
+    $('.interestedCamp').css('color','#000');
+        console.log("You have selected - " + interestedCamps);
+});
+$("select#Field13").click(function(){
+    var hearAbouts = $("#Field13 option:selected").val();
+    $('.hearAbout').text(hearAbouts);
+    $('.hearAbout').css('color','#000');
+        console.log("You have selected - " + hearAbouts);
+});
+
+    
     
 $("select#Field12").change(function(){
     var interestedCamps = $("#Field12 option:selected").val();
