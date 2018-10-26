@@ -37,6 +37,49 @@
 
 @media screen and (max-width:1023px) {
     
+    .meetTheInventors{
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    .whathappens-tabs li{
+        float: none;
+        width: 100%;
+        margin: 2px;
+    }
+    .whathappens-tabs li:after{
+        right: -42px;
+    }
+    .whathappensatCamp .left-side{
+        width: 100%;
+        float: none;
+        padding-right: 0;
+    }
+    .whathappensatCamp .right-side{
+        width: 100%;
+        float: none;
+        padding-left: 0;
+        border: none;
+        padding-top: 50px;
+    }
+    .mainContentCamp{
+        padding: 0 10% 55px;
+    }
+    .toursection{
+        margin-top: -140px;
+    }
+    .supportFC .definition{
+        margin-bottom: 80px;
+    }
+    .transformMe{
+        height: 72px;
+        margin-top: -75px;
+    }
+    .toursection{
+        margin-top: -20px;
+    }
+    
+    
     .programsection .headingbox{
         margin-top: -30px;
     }
@@ -125,6 +168,25 @@
 
 @media screen and (max-width: 767px) {
  
+    .meetTheInventors{
+        padding: 50px 0 0;
+    }
+    .inventors-text{
+        width: 90%;
+        float: none;
+        text-align: center;
+        margin: auto;
+    }
+    .inventors-text h2{
+        margin: 20px 0 10px 0;
+    }
+    .inventors-images{
+        width: 90%;
+        float: none;
+        margin: auto;
+        margin-top: 50px;
+    }
+    
 .whatWeStandFor{
     padding: 70px 15px;
     margin-top: 120px;

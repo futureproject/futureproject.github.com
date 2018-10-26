@@ -513,7 +513,7 @@ box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.15);}
 .futuredircontent p{font-family: 'Proxima Nova Rg'; font-size:18px; font-weight:normal; color:#fff; line-height:28px;}
 .futuredircontent .keyheading{margin-top:55px; margin-bottom:15px; font-family: 'Oswald'; font-size:24px; color:#4BCCEF; font-weight:500; line-height:1.3; text-transform:uppercase;}
 
-.futuredircontent li{font-family: 'Proxima Nova Rg'; font-size:15px; font-weight:normal; color:#fff; line-height:1.2; background:url(../images/circle.png) no-repeat 4px 10px; text-align:left; padding-left:15px; padding-bottom:10px;}
+.futuredircontent li{font-family: 'Proxima Nova Rg'; font-size:15px; font-weight:normal; color:#fff; line-height:1.2; background:url(../images/circle`.png) no-repeat 4px 10px; text-align:left; padding-left:15px; padding-bottom:10px;}
 
 .futuredircontent .btmbtn{font-family: 'Proxima Nova Rg'; font-size:15px; font-weight:bold; letter-spacing: 4px; text-transform:uppercase; margin-top:50px;}
 .futuredircontent .btmbtn a{color: #fff; border-bottom:2px solid #0bd0fe; padding-bottom:6px;}
@@ -543,6 +543,7 @@ box-shadow: 0px 0px 8px 0px rgba(0,0,0,0.15);}
 .whatitsection{padding-bottom:50px;}
 .whatitsection h2{font-family: 'Tiempos Headline'; font-weight:600; color: #212D3C; font-size:36px; line-height:1.3; text-align:center; margin-bottom:15px;margin-top: 30px;}
 .whatitsection p{font-family: 'Proxima Nova Rg'; font-size:18px; font-weight:normal; color: #212D3C; text-align:center; line-height:1.4;}
+.supportFC p{font-family: 'Proxima Nova Rg'; font-size:18px; font-weight:normal; color: #212D3C; text-align:center; line-height:1.4;}
 .countdowsection{width:100%; float:left; margin-top:85px;}
 .countdowsection p.bigcount{font-family: 'Oswald'; font-size:24px; color:#212D3C; text-transform:uppercase; font-weight:600; font-style:italic; margin-bottom:15px; margin-top:-10px;}
 .countdowsection p{font-size:16px;}
@@ -582,7 +583,7 @@ border-left:3000px solid transparent;}
 .headertxt span{background:url(../images/white-block.png) no-repeat center top; display:inline-block; width:100%; min-height:128px; padding-top:30px; font-family: 'Oswald'; font-size:48px; color: #212D3C; font-weight:600; text-transform:uppercase;}
 
 
-.toursection{background:#f6f6f6;}
+.toursection{background:#f6f6f6; margin-top: -58px;}
 .tourmain{padding-top:190px; padding-bottom:250px; z-index:2; position:relative;}
 .toursection .headertxt{text-align:center; margin-top:-40px; z-index:2; position:relative;}
 .toursection h2{font-family: 'Tiempos Headline'; font-weight:600; color:#212D3C; font-size:36px; line-height:1.3; text-align:center; margin-top:50px;}
@@ -622,7 +623,7 @@ border-left:3000px solid transparent;}
 .testimonialsection .carousel-indicators{left:72%; width:auto; margin-left:0; bottom:170px;}
 
 .testimonialsection .headertxt{margin-top:0;}
-.signupsection{background:#fff; padding-bottom:50px;}
+.signupsection{background:#fff; padding-bottom:200px; position: relative; overflow: hidden; padding-top: 55px;}
 .signupsection .headertxt{margin-top:-66px;}
 .signupsection .headtop{padding-top:50px;}
 
@@ -674,6 +675,7 @@ border-left:3000px solid transparent;}
 /*   Shapes */
 /********************************/
 .tourcontainernew{overflow:hidden; margin:0 -15px; padding:0px 0px 0; box-sizing:border-box; position:relative; z-index:1;padding-top: 110px; margin-top: -50px;}
+.supportFC{overflow:hidden; background: #f6f6f6; padding:0px 0px 0; box-sizing:border-box; padding-top: 30px; padding-bottom: 80px;}
 .tourcontainernew::before{content: "";
 position: absolute;
 z-index: 1;
@@ -683,6 +685,44 @@ width: 100%;
 background-size:cover;
 border-top:308px solid white;
 border-right:2572px solid transparent;}
+
+/*
+.supportFC::before{content: "";
+position: absolute;
+z-index: 1;
+top: 0;
+left: 0;
+width: 100%;
+background-size:cover;
+border-top:308px solid white;
+border-right:2572px solid transparent;}
+
+*/
+.signupsection::after{content: "";
+position: absolute;
+z-index: 1;
+bottom: 0;
+left: 0;
+width: 100%;
+background-size:cover;
+border-bottom:308px solid #f6f6f6;
+border-left:2150px solid transparent;}
+
+.supportFC .countdowsection .headingcol img{
+    padding-bottom: 10px;
+    height: 90px;
+}
+
+
+a.btnn{margin:30px auto 0px; text-align: center;padding:15px 30px; display:inline-block; background-color: #4BCCEF; color: #FFFFFF; border-radius:6px; 	font-family: 'Proxima Nova Lt'; font-weight:bold; font-size:14px; letter-spacing: 5.25px; text-shadow:none; text-transform:uppercase; transition: 0.3s;}
+a.btnn:hover{background-color:#242E3A; color: #fff;}
+
+.supportFC .definition{
+    text-align: center;
+}
+.supportFC .definition p{
+    min-height: 50px;
+}
 
 .tourcontainernew::after{content: "";
 position: absolute;
@@ -1138,4 +1178,218 @@ text-align:center; font-family: 'Oswald'; font-weight:500; font-size: 24px; colo
 .whatWeStandFor p{
     font-size: 17px;
     line-height: 150%;
+}
+
+
+
+
+.whathappensatCamp{
+    text-align: center;
+    padding: 0;
+    overflow: hidden;
+    position: relative;
+    z-index: 99;
+}
+.mainContentCamp{
+    background: #F6F6F6;
+    border-radius: 7px;
+    padding: 0 120px 150px;
+}
+.mainContentCamp h2.headr{
+width:auto; margin:0 auto; display:inline-block; padding:20px 30px; position:relative; z-index:1; font-family: 'Proxima Nova Lt'; font-size:17px; text-transform:uppercase; font-weight:600; letter-spacing: 4.57px; line-height:1;
+background:#ffffff; 
+    margin-top: -50px;
+    margin-bottom: 60px;
+box-shadow: 0 2px 10px 4px rgba(33,45,60,0.05);    
+}
+.whathappensatCamp hr{
+    clear: both;
+    padding-top: 80px;
+    border: none;
+}
+
+.whathappensatCamp .introd{
+    font: 18px 'Proxima Nova Lt';
+    color: #212D3C;
+    padding: 0;
+    margin: 0;
+}
+
+.whathappens-tabs{
+    padding: 0;
+    margin: 40px auto 60px;
+    list-style: none;
+    width: 100%;
+    text-align: center;
+}
+.whathappens-tabs li{
+    float: left;
+    width: 33.33%;    
+    position: relative;
+}
+.whathappens-tabs li a{
+    display: block;
+    padding: 15px;
+    background: #AFBAC2;
+    font: 500 18px/20px 'Oswald';
+    color: #fff;
+    font-style: italic;
+    text-transform: uppercase;
+}
+.whathappens-tabs li a.active{
+    background: #4BCCEF;
+}
+.whathappens-tabs li a span{
+    display: block;
+}
+.whathappens-tabs li:after{
+    content: '\f054';
+    display: block;
+    position: absolute;
+    font-family:'FontAwesome'; 
+    right: -39px;
+    top: -39px;
+    color: #f6f6f6;
+    font-size: 110px;
+    z-index: 99;
+}
+.whathappensatCamp .left-side{
+    width: 33%;
+    float: left;
+    padding-right: 3%;
+}
+.whathappensatCamp .right-side{
+    width: 67%;
+    float: right;
+    padding-left: 3%;
+    border-left: solid 1px #AFBAC2;    
+}
+.whathappensatCamp .left-side h2{
+    font: 700 48px/48px 'Oswald';
+    font-style: italic;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+}
+.whathappensatCamp .left-side h2 span{
+    display: block;
+    font: 36px/48px "Tiempos Headline";
+}
+.whathappensatCamp .left-side p{
+    font: 16px/150% 'Proxima Nova Rg';
+    padding: 0;
+    margin: 0;
+    margin-top: 40px;
+    text-align: left;
+}
+.whathappensatCamp .right-side h3{
+    font: bold 13px 'Proxima Nova Rg';
+    color: #212D3C;
+    padding: 0;
+    text-align: left;
+    margin: 13px 0;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+}
+.whathappensatCamp .right-side ul{
+    padding: 10px 0;
+}
+.whathappensatCamp .right-side li{
+    font: 14px/20px 'Proxima Nova Rg';
+    color: #212D3C;
+    padding: 0;
+    margin: 0;
+    text-align: left;
+    background: url(../images/pixy-dot.png) 0px 7px no-repeat;
+    padding-left: 10px;
+}
+.whathappensatCamp .right-side p{
+    text-align: left;
+    font: 14px/20px 'Proxima Nova Rg';    
+}
+
+.transformMe{
+   -ms-transform: rotate(-8deg); /* IE 9 */
+    -webkit-transform: rotate(-8deg); /* Safari */
+    transform: rotate(-8deg); /* Standard syntax */
+    height: 200px;
+    background: #ffffff;
+    width: 200%;
+    position: absolute;
+    left: 0;
+    margin-top: -160px;
+}
+
+.campContainer{
+    position: relative;
+    overflow: hidden;
+    padding-top: 40px;
+}
+.video-pop{
+    text-align: center;
+    max-width: 730px;
+    margin: auto;
+    margin-top: 50px;
+    position: relative;
+    background: #000;
+    border-radius: 7px;    
+}
+.video-pop img{
+    opacity: 0.8;
+    border-radius: 7px;    
+}
+.video-pop a:after{
+    content: " ";
+    width: 62px;
+    height: 62px;
+    background: url(../images/play-btn.png) no-repeat;
+    position: absolute;
+    top: calc( 50% - 31px);
+    left: calc( 50% - 31px);
+}
+.meetTheInventors{
+    padding: 100px 0;
+    clear: both;
+}
+.inventors-text{
+    float: left;
+    width: 35%;
+}
+.inventors-images{
+    float: right;
+    width: 55%;
+    padding-left: 5%;
+    padding-top: 5%;
+}
+.inventors-images img{
+    border-radius: 7px;
+    position: relative;
+    margin-top: -5%;
+    margin-left: -5%;
+    padding-bottom: 5%;
+}
+.inventors-images span{
+    position: relative;
+    display: inline-block;
+}
+.inventors-images span:before{
+    content: " ";
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+    background: #212D3C;
+    z-index: -1;
+    border-radius: 7px;
+}
+.meetTheInventors h2{
+    font: 600 42px "Tiempos Headline";
+    color: #212D3C;
+    padding: 0;
+    margin: 10px 0 30px 0;
+}
+.meetTheInventors p{
+    font: 18px/28px 'Proxima Nova Rg';
+    color: #212D3C;
 }
